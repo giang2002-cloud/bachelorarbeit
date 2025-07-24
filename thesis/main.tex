@@ -1,0 +1,42 @@
+% Main thesis file
+\documentclass[12pt,a4paper]{report}
+
+% Packages for formatting
+\usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{natbib}
+
+% Line spacing
+\onehalfspacing
+
+% Title page info
+\title{Bachelor Thesis Title}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+% Title page
+\maketitle
+
+% Abstract
+\chapter*{Abstract}
+Your abstract goes here.
+
+% Table of Contents
+\tableofcontents
+
+% Chapters
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+
+% Bibliography
+\bibliographystyle{plainnat}
+\bibliography{bibliography}
+
+\end{document}
