@@ -2,41 +2,88 @@
 \documentclass[12pt,a4paper]{report}
 
 % Packages for formatting
-\usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage[a4paper, left=6cm, right=1cm, top=3cm, bottom=2cm]{geometry}
 \usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5} % line spacing
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{tocloft}
 \usepackage{natbib}
+\usepackage{fancyhdr}
+\usepackage{footmisc}
+\usepackage{hyphenat}
 
-% Line spacing
-\onehalfspacing
+% Footnote formatting
+\renewcommand{\footnotelayout}{\setstretch{1}\fontsize{10}{12}\selectfont}
+
+% Page numbering
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[C]{\thepage}
+\pagenumbering{roman}
 
 % Title page info
 \title{Bachelor Thesis Title}
-\author{Your Name}
+\author{Hoang Huong Giang Nguyen}
 \date{\today}
 
 \begin{document}
 
 % Title page
-\maketitle
+\input{chapters/titlepage.tex}
+\clearpage
 
 % Abstract
-\chapter*{Abstract}
-Your abstract goes here.
+\input{chapters/abstract.tex}
+\clearpage
 
 % Table of Contents
 \tableofcontents
+\clearpage
 
-% Chapters
-\input{chapters/chapter1.tex}
-\input{chapters/chapter2.tex}
+% List of Figures
+\listoffigures
+\clearpage
 
-% Bibliography
+% List of Tables
+\listoftables
+\clearpage
+
+% List of Abbreviations
+% \input{chapters/abbreviations.tex}
+
+% List of Appendices
+% \input{chapters/list_of_appendices.tex}
+
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Main text: Introduction, Main Body, Conclusion
+\input{chapters/introduction.tex}
+\clearpage
+
+\input{chapters/body.tex}
+\clearpage
+
+\input{chapters/conclusion.tex}
+
+% References
 \bibliographystyle{plainnat}
 \bibliography{bibliography}
+
+% Appendices
+% \input{chapters/appendixA.tex}
+% \input{chapters/appendixB.tex}
+
+% Statutory Declaration
+% \cleardoublepage
+% \input{chapters/statutory_declaration.tex}
+
+% Consent form for plagiarism check
+% \input{chapters/plagiarism_consent.tex}
 
 \end{document}
