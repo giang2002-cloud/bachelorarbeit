@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  28 JUL 2025 03:07
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  28 JUL 2025 03:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
-(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
+**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
+(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -242,7 +242,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language10
+\blx@langwohyphens=\language49
 \c@mincomprange=\count344
 \c@maxcomprange=\count345
 \c@mincompwidth=\count346
@@ -807,12 +807,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18895 strings out of 470384
- 379797 string characters out of 5488845
- 1273376 words of memory out of 5000000
- 47027 multiletter control sequences out of 15000+600000
+ 18895 strings out of 469674
+ 379767 string characters out of 5470704
+ 1275344 words of memory out of 5000000
+ 47085 multiletter control sequences out of 15000+600000
  630105 words of font info for 73 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 73i,13n,93p,757b,5065s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 430 hyphenation exceptions out of 8191
+ 73i,13n,93p,747b,5065s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (27 pages).
