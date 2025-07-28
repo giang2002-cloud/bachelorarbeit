@@ -8,12 +8,13 @@
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \usepackage{graphicx}
-\usepackage{hyperref}
+\usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black]{hyperref}
 \usepackage{tocloft}
-\usepackage{natbib}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{bibliography.bib} 
 \usepackage{fancyhdr}
-\usepackage{footmisc}
 \usepackage{hyphenat}
+\usepackage{footmisc}
 
 % Footnote formatting
 \renewcommand{\footnotelayout}{\setstretch{1}\fontsize{10}{12}\selectfont}
@@ -72,8 +73,7 @@
 \input{chapters/conclusion.tex}
 
 % References
-\bibliographystyle{plainnat}
-\bibliography{bibliography}
+\printbibliography
 
 % Appendices
 % \input{chapters/appendixA.tex}

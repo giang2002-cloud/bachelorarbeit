@@ -1,0 +1,45 @@
+% Main thesis file
+\documentclass[12pt,a4paper]{report}
+
+% Packages for formatting
+\usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{graphicx}
+\usepackage{tocloft}
+\usepackage[backend=biber,style=authoryear,sorting=none]{biblatex}
+\addbibresource{bibliography.bib}
+\usepackage{float}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black,
+    pdfborder={0 0 0}
+}
+
+% Line spacing
+\onehalfspacing
+
+\begin{document}
+
+% Table of Contents on first page
+\tableofcontents
+\clearpage
+
+% Chapters and sections
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+\input{chapters/chapter3.tex}
+\input{chapters/chapter4.tex}
+\input{chapters/chapter5.tex}
+\input{chapters/chapter6.tex}
+
+
+% Bibliography
+\renewcommand{\bibname}{REFERENCES}
+\printbibliography[heading=bibintoc]
+
+\end{document}
