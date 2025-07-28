@@ -1,6 +1,6 @@
 {
   "latex-workshop.latex.autoBuild.run": "onSave",
-  "latex-workshop.latex.recipe.default": "Full Pipeline",
+  "latex-workshop.latex.recipe.default": "Fast Preview",
   "latex-workshop.latex.tools": [
     {
       "name": "xelatex",
