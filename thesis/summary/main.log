@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 00:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 01:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,18 +656,8 @@ Chapter 1.
 
 
 ]
-Overfull \hbox (8.56683pt too wide) in paragraph at lines 47--48
-[]\TU/TimesNewRoman(0)/m/n/12 Data sources include annual reports, ESG reports, company websites, and the SRN database. 
- []
-
-
 
 [4]
-Overfull \hbox (0.60745pt too wide) in paragraph at lines 53--54
-[]\TU/TimesNewRoman(0)/m/n/12 The developed framework remains preliminary and has not been broadly validated through
- []
-
-
 
 [5]) (./chapters/chapter2.tex
 
@@ -775,8 +765,8 @@ Chapter 6.
 [25
 
 ]
-Overfull \hbox (3.31154pt too wide) in paragraph at lines 42--43
-\TU/TimesNewRoman(0)/m/n/12 Policymakers and standard-setters should develop SSR standards tailored to the software/services
+Overfull \hbox (17.00864pt too wide) in paragraph at lines 54--57
+[]\TU/TimesNewRoman(0)/b/n/12 Theoretical Synthesis: \TU/TimesNewRoman(0)/m/n/12 Applies a multi-theoretical approach (Institutional Theory, Resource-
  []
 
 
@@ -799,24 +789,17 @@ Overfull \hbox (9.71246pt too wide) in paragraph at lines 43--43
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 991AD8474221F62F673EE6575CFAC26A;11137
-(rerunfilecheck)             After:  4DB6C6B6565A5E15D4738BE7865C2686;10843.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: E5471E8C2A43C152D4025E56831187B1;10451.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18892 strings out of 469674
- 379728 string characters out of 5470704
+ 18890 strings out of 469674
+ 379702 string characters out of 5470704
  1275344 words of memory out of 5000000
- 47082 multiletter control sequences out of 15000+600000
+ 47080 multiletter control sequences out of 15000+600000
  630105 words of font info for 73 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  73i,13n,93p,742b,5067s stack positions out of 10000i,1000n,20000p,200000b,200000s

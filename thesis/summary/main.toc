@@ -98,30 +98,14 @@
 \contentsline {subsubsection}{For Standard-Setters and Rating Agencies}{24}{section*.58}%
 \contentsline {section}{\numberline {5.4}Academic Contributions}{24}{section.5.4}%
 \contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{25}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Summary}{25}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Key Conclusions}{25}{section.6.2}%
-\contentsline {subsubsection}{Overall Readiness}{25}{section*.59}%
-\contentsline {subsubsection}{Strongest and Weakest Thematic Groups}{25}{section*.60}%
-\contentsline {subsubsection}{Common Drivers}{25}{section*.61}%
-\contentsline {subsubsection}{Major Challenges}{25}{section*.62}%
-\contentsline {subsubsection}{Unique Sector Traits}{26}{section*.63}%
-\contentsline {section}{\numberline {6.3}Contributions of the Study}{26}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Academic Contribution}{26}{subsection.6.3.1}%
-\contentsline {subsubsection}{New Perspectives}{26}{section*.64}%
-\contentsline {subsubsection}{Theoretical Synthesis}{26}{section*.65}%
-\contentsline {subsection}{\numberline {6.3.2}Practical Contribution}{26}{subsection.6.3.2}%
-\contentsline {subsubsection}{Usable Framework}{26}{section*.66}%
-\contentsline {subsubsection}{Support for SMEs}{26}{section*.67}%
-\contentsline {section}{\numberline {6.4}Recommendations}{26}{section.6.4}%
-\contentsline {subsubsection}{For Companies}{26}{section*.68}%
-\contentsline {subsubsection}{For Policymakers and Standard-Setters}{27}{section*.69}%
-\contentsline {section}{\numberline {6.5}Research Limitations}{27}{section.6.5}%
-\contentsline {subsubsection}{Sample Size}{27}{section*.70}%
-\contentsline {subsubsection}{Framework Testing}{27}{section*.71}%
-\contentsline {subsubsection}{Data Sources}{27}{section*.72}%
-\contentsline {section}{\numberline {6.6}Suggestions for Future Research}{27}{section.6.6}%
-\contentsline {subsubsection}{Expand Sample and Coverage}{27}{section*.73}%
-\contentsline {subsubsection}{Cross-Industry Application}{27}{section*.74}%
-\contentsline {subsubsection}{Validation Methods}{27}{section*.75}%
-\contentsline {subsubsection}{Statistical Analysis}{27}{section*.76}%
-\contentsline {chapter}{REFERENCES}{28}{chapter*.77}%
+\contentsline {section}{\numberline {6.1}Research Summary and Conclusions}{25}{section.6.1}%
+\contentsline {subsubsection}{Research Summary (Proposal)}{25}{section*.59}%
+\contentsline {subsubsection}{Key Conclusions (Proposal)}{25}{section*.60}%
+\contentsline {subsubsection}{Unique Sector Traits}{26}{section*.61}%
+\contentsline {section}{\numberline {6.2}Contributions of the Study}{26}{section.6.2}%
+\contentsline {subsubsection}{Academic Contribution}{26}{section*.62}%
+\contentsline {subsubsection}{Practical Contribution}{26}{section*.63}%
+\contentsline {section}{\numberline {6.3}Recommendations}{26}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Research Limitations}{27}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Suggestions for Future Research}{27}{section.6.5}%
+\contentsline {chapter}{REFERENCES}{28}{chapter*.64}%
