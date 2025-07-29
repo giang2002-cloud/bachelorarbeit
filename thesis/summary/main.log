@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 00:21
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,11 +696,6 @@ Overfull \hbox (3.00099pt too wide) in paragraph at lines 80--81
 [10]
 
 [11]
-Overfull \hbox (2.08821pt too wide) in paragraph at lines 167--167
-[]\TU/TimesNewRoman(0)/b/n/14.4 Drivers and Challenges of SSR Implementation – Insights from Prior
- []
-
-
 Overfull \hbox (17.28519pt too wide) in paragraph at lines 174--175
 []\TU/TimesNewRoman(0)/m/n/12 Strong societal and ethical practices are positively linked to higher market valuation ([]Chouaibi
  []
@@ -742,22 +737,7 @@ Chapter 4.
 Chapter 5.
 
 Underfull \hbox (badness 1354) in paragraph at lines 21--21
-[]\TU/TimesNewRoman(0)/m/n/12 Difficulty in collecting and stan-
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 21--22
-[]\TU/TimesNewRoman(0)/m/n/12 RBV: Reflects lack of systems, tools, and
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 23--23
-[]\TU/TimesNewRoman(0)/m/n/12 Informal labor, globalization, re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-[]\TU/TimesNewRoman(0)/m/n/12 Institutional Theory: Fragmented settings
+[]\TU/TimesNewRoman(0)/m/n/12 Regulatory pressure from CSRD,
  []
 
 
@@ -765,8 +745,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 [22
 
 ]
-Underfull \hbox (badness 1354) in paragraph at lines 39--39
-[]\TU/TimesNewRoman(0)/m/n/12 Regulatory pressure from CSRD,
+Underfull \hbox (badness 1354) in paragraph at lines 38--38
+[]\TU/TimesNewRoman(0)/m/n/12 Difficulty in collecting and stan-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 38--39
+[]\TU/TimesNewRoman(0)/m/n/12 RBV: Reflects lack of systems, tools, and
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 40--40
+[]\TU/TimesNewRoman(0)/m/n/12 Informal labor, globalization, re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\TU/TimesNewRoman(0)/m/n/12 Institutional Theory: Fragmented settings
  []
 
 
@@ -811,8 +806,8 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 78BAE485CDA66C61A8D852DB70CEB982;11378
-(rerunfilecheck)             After:  C62E1DDFDC40423AA096EB938D403F91;11266.
+(rerunfilecheck)             Before: 991AD8474221F62F673EE6575CFAC26A;11137
+(rerunfilecheck)             After:  4DB6C6B6565A5E15D4738BE7865C2686;10843.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
