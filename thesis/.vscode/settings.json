@@ -3,8 +3,8 @@
   "latex-workshop.latex.recipe.default": "Fast Preview",
   "latex-workshop.latex.tools": [
     {
-      "name": "xelatex",
-      "command": "xelatex",
+      "name": "pdflatex",
+      "command": "pdflatex",
       "args": [
         "-synctex=1",
         "-interaction=nonstopmode",
@@ -23,17 +23,19 @@
     {
       "name": "Full Pipeline",
       "tools": [
-        "xelatex",
+        "pdflatex",
         "biber",
-        "xelatex",
-        "xelatex"
+        "pdflatex",
+        "pdflatex"
       ]
     },
     {
       "name": "Fast Preview",
       "tools": [
-        "xelatex"
+        "pdflatex"
       ]
     }
-  ]
+  ],
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
 }

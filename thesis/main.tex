@@ -4,9 +4,8 @@
 % Packages for formatting
 \usepackage[a4paper, left=6cm, right=1cm, top=3cm, bottom=2cm]{geometry}
 \usepackage{setspace}
-\renewcommand{\baselinestretch}{1.5} % line spacing
-\usepackage{fontspec}
-\setmainfont{Times New Roman}
+\renewcommand{\baselinestretch}{1.5}
+\usepackage{times}
 \usepackage{graphicx}
 \usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black]{hyperref}
 \usepackage{tocloft}
@@ -19,23 +18,15 @@
 % Footnote formatting
 \renewcommand{\footnotelayout}{\setstretch{1}\fontsize{10}{12}\selectfont}
 
-% Page numbering
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[C]{\thepage}
-\pagenumbering{roman}
-
-% Title page info
-\title{Bachelor Thesis Title}
-\author{Hoang Huong Giang Nguyen}
-\date{\today}
-
 \begin{document}
 
 % Title page
 \input{chapters/titlepage.tex}
+\thispagestyle{empty}
 \clearpage
+
+\pagenumbering{roman}
+\setcounter{page}{2}
 
 % Abstract
 \input{chapters/abstract.tex}
@@ -59,6 +50,7 @@
 % List of Appendices
 % \input{chapters/list_of_appendices.tex}
 
+% Switch to Arabic numbering for main text
 \cleardoublepage
 \pagenumbering{arabic}
 \setcounter{page}{1}
