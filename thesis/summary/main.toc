@@ -25,64 +25,63 @@
 \contentsline {subsubsection}{Sector Characteristics}{5}{section*.13}%
 \contentsline {subsubsection}{Role of Social Aspects}{5}{section*.14}%
 \contentsline {subsubsection}{Challenges for SSR}{5}{section*.15}%
-\contentsline {section}{\numberline {2.2}Theoretical Framework}{6}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Institutional Theory (DiMaggio \& Powell, 1983)}{6}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.2}Theoretical Framework}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Institutional Theory (DiMaggio \& Powell, 1983)}{5}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Resource-Based View (RBV) (Barney, 1991)}{6}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Stakeholder Theory (Freeman, 1984)}{6}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Overview of Prior Research}{6}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Existing Literature on Social Reporting in Software Sector}{6}{subsection.2.3.1}%
 \contentsline {subsubsection}{Sector-Specific SSR Studies}{6}{section*.16}%
 \contentsline {subsubsection}{ESG in the Technology Sector}{6}{section*.17}%
-\contentsline {subsection}{\numberline {2.3.2}Existing Readiness Assessment Frameworks}{7}{subsection.2.3.2}%
-\contentsline {subsubsection}{Prior Frameworks}{7}{section*.18}%
+\contentsline {subsection}{\numberline {2.3.2}Existing Readiness Assessment Frameworks}{6}{subsection.2.3.2}%
+\contentsline {subsubsection}{Prior Frameworks}{6}{section*.18}%
 \contentsline {subsubsection}{Identified Gap}{7}{section*.19}%
 \contentsline {subsection}{\numberline {2.3.3}Literature-Based Drivers and Challenges}{7}{subsection.2.3.3}%
 \contentsline {subsubsection}{Drivers}{7}{section*.20}%
 \contentsline {subsubsection}{Challenges}{7}{section*.21}%
-\contentsline {subsection}{\numberline {2.3.4}Analytical Orientation Informed by Prior Research}{8}{subsection.2.3.4}%
-\contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Approach and Design}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Research Subjects and Data Collection}{9}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Assessment Framework and Data Analysis}{10}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Developing the SSR Readiness Framework}{10}{subsection.3.3.1}%
-\contentsline {subsubsection}{Reference Standards}{10}{section*.22}%
-\contentsline {subsubsection}{Framework Structure}{10}{section*.23}%
-\contentsline {subsubsection}{Rationale for Grouping}{10}{section*.24}%
-\contentsline {subsubsection}{Scoring System}{11}{section*.25}%
-\contentsline {subsection}{\numberline {3.3.2}Data Analysis}{11}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Research Ethics and Methodological Limitations}{11}{section.3.4}%
-\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Overview of SSR Readiness Across the Sample}{12}{section.4.1}%
-\contentsline {subsubsection}{Sample Overview}{12}{section*.26}%
-\contentsline {subsubsection}{Overall Results}{12}{section*.27}%
-\contentsline {section}{\numberline {4.2}Readiness by Company Characteristics}{13}{section.4.2}%
-\contentsline {subsubsection}{Comparison of readiness based on:}{13}{section*.28}%
-\contentsline {section}{\numberline {4.3}Analysis by the Framework Categories}{13}{section.4.3}%
-\contentsline {subsubsection}{Readiness across thematic groups}{13}{section*.29}%
-\contentsline {subsubsection}{Readiness by Mid-Groups}{14}{section*.30}%
-\contentsline {subsubsection}{Top and Bottom Reporting Sub-Criteria}{14}{section*.31}%
-\contentsline {section}{\numberline {4.4}Empirical Drivers and Challenges}{14}{section.4.4}%
-\contentsline {subsubsection}{Key Drivers of Reporting Readiness}{14}{section*.32}%
-\contentsline {subsubsection}{Key Challenges Hindering Reporting Readiness}{15}{section*.33}%
-\contentsline {section}{\numberline {4.5}Summary of Findings}{15}{section.4.5}%
-\contentsline {chapter}{\numberline {5}DISCUSSION ON EMPIRICAL RESULTS}{16}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary of Key Findings}{16}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Theoretical Interpretation of Drivers and Barriers}{17}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Drivers of Social Sustainability Reporting Readiness}{17}{subsection.5.2.1}%
-\contentsline {subsubsection}{Driver}{17}{section*.34}%
-\contentsline {subsubsection}{Theoretical Interpretation}{17}{section*.35}%
-\contentsline {subsection}{\numberline {5.2.2}Barriers of Social Sustainability Reporting Readiness}{17}{subsection.5.2.2}%
-\contentsline {subsubsection}{Challenge}{17}{section*.36}%
-\contentsline {subsubsection}{Theoretical Interpretation}{17}{section*.37}%
-\contentsline {section}{\numberline {5.3}Implications for Practices}{18}{section.5.3}%
-\contentsline {subsubsection}{For Businesses}{18}{section*.38}%
-\contentsline {subsubsection}{For Policymakers}{18}{section*.39}%
-\contentsline {subsubsection}{For Standard-Setters and Rating Agencies}{18}{section*.40}%
-\contentsline {section}{\numberline {5.4}Academic Contributions}{18}{section.5.4}%
-\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{19}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Summary and Conclusions}{19}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Contributions of the Study}{19}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Recommendations}{19}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Research Limitations}{20}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Suggestions for Future Research}{20}{section.6.5}%
-\contentsline {chapter}{REFERENCES}{21}{chapter*.41}%
+\contentsline {subsection}{\numberline {2.3.4}Analytical Orientation Informed by Prior Research}{7}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Approach and Design}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Subjects and Data Collection}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Assessment Framework and Data Analysis}{9}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Developing the SSR Readiness Framework}{9}{subsection.3.3.1}%
+\contentsline {subsubsection}{Reference Standards}{9}{section*.22}%
+\contentsline {subsubsection}{Framework Structure}{9}{section*.23}%
+\contentsline {subsubsection}{Rationale for Grouping}{9}{section*.24}%
+\contentsline {subsubsection}{Scoring System}{10}{section*.25}%
+\contentsline {subsection}{\numberline {3.3.2}Data Analysis}{10}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Research Ethics and Methodological Limitations}{10}{section.3.4}%
+\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Overview of SSR Readiness Across the Sample}{11}{section.4.1}%
+\contentsline {subsubsection}{Sample Overview}{11}{section*.26}%
+\contentsline {subsubsection}{Overall Results}{11}{section*.27}%
+\contentsline {section}{\numberline {4.2}Readiness by Company Characteristics}{12}{section.4.2}%
+\contentsline {subsubsection}{Comparison of readiness based on:}{12}{section*.28}%
+\contentsline {section}{\numberline {4.3}Analysis by the Framework Categories}{12}{section.4.3}%
+\contentsline {subsubsection}{Readiness across thematic groups}{12}{section*.29}%
+\contentsline {subsubsection}{Readiness by Mid-Groups}{13}{section*.30}%
+\contentsline {subsubsection}{Top and Bottom Reporting Sub-Criteria}{13}{section*.31}%
+\contentsline {section}{\numberline {4.4}Empirical Drivers and Challenges}{13}{section.4.4}%
+\contentsline {subsubsection}{Key Drivers of Reporting Readiness}{13}{section*.32}%
+\contentsline {subsubsection}{Key Challenges Hindering Reporting Readiness}{14}{section*.33}%
+\contentsline {section}{\numberline {4.5}Summary of Findings}{14}{section.4.5}%
+\contentsline {chapter}{\numberline {5}DISCUSSION ON EMPIRICAL RESULTS}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Key Findings}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Theoretical Interpretation of Drivers and Barriers}{16}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Drivers of Social Sustainability Reporting Readiness}{16}{subsection.5.2.1}%
+\contentsline {subsubsection}{Driver}{16}{section*.34}%
+\contentsline {subsubsection}{Theoretical Interpretation}{16}{section*.35}%
+\contentsline {subsection}{\numberline {5.2.2}Barriers of Social Sustainability Reporting Readiness}{16}{subsection.5.2.2}%
+\contentsline {subsubsection}{Challenge}{16}{section*.36}%
+\contentsline {subsubsection}{Theoretical Interpretation}{16}{section*.37}%
+\contentsline {section}{\numberline {5.3}Implications for Practices}{17}{section.5.3}%
+\contentsline {subsubsection}{For Businesses}{17}{section*.38}%
+\contentsline {subsubsection}{For Policymakers}{17}{section*.39}%
+\contentsline {subsubsection}{For Standard-Setters and Rating Agencies}{17}{section*.40}%
+\contentsline {section}{\numberline {5.4}Academic Contributions}{17}{section.5.4}%
+\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{18}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Research Summary and Conclusions}{18}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Contributions of the Study}{18}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Recommendations}{18}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Research Limitations}{19}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Suggestions for Future Research}{19}{section.6.5}%

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 06:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 06:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
-(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
+**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
+(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -186,7 +186,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language49
+\blx@langwohyphens=\language10
 \c@mincomprange=\count334
 \c@maxcomprange=\count335
 \c@mincompwidth=\count336
@@ -591,11 +591,9 @@ Chapter 2.
 
 [5]
 
-[6]
+[6]) (./chapters/chapter3.tex
 
-[7]) (./chapters/chapter3.tex
-
-[8]
+[7]
 Chapter 3.
 
 Overfull \hbox (10.62633pt too wide) in paragraph at lines 25--26
@@ -604,29 +602,29 @@ Overfull \hbox (10.62633pt too wide) in paragraph at lines 25--26
 
 
 
-[9
+[8
 
 ]
 
-[10]) (./chapters/chapter4.tex
+[9]) (./chapters/chapter4.tex
 
-[11]
+[10]
 Chapter 4.
 
 
-[12
+[11
 
 ]
 
-[13]
+[12]
 
-[14]) (./chapters/chapter5.tex
+[13]) (./chapters/chapter5.tex
 
-[15]
+[14]
 Chapter 5.
 
 
-[16
+[15
 
 ]
 Underfull \hbox (badness 5817) in paragraph at lines 41--42
@@ -635,44 +633,44 @@ Underfull \hbox (badness 5817) in paragraph at lines 41--42
 
 
 
-[17]) (./chapters/chapter6.tex
+[16]) (./chapters/chapter6.tex
 
-[18]
+[17]
 Chapter 6.
 
 
-[19
+[18
 
 ])
 
-[20]
+LaTeX Warning: Empty bibliography on input line 50.
 
-[21
 
-] (./main.aux)
+
+[19] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9EDC2E9B95FB38AA072E09EBEE243E0E;10683.
+(rerunfilecheck)             Checksum: EE8A719AF9C60ADDB4A6BCDC774831CF;10587.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17036 strings out of 468940
- 297660 string characters out of 5457270
- 1137706 words of memory out of 5000000
- 45164 multiletter control sequences out of 15000+600000
- 643302 words of font info for 68 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 63i,13n,67p,742b,1444s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (24 pages, 105230 bytes).
+ 16804 strings out of 469703
+ 292935 string characters out of 5479759
+ 1135596 words of memory out of 5000000
+ 44881 multiletter control sequences out of 15000+600000
+ 641618 words of font info for 66 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 63i,13n,67p,752b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (22 pages, 95392 bytes).
 PDF statistics:
- 481 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
- 139 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 458 PDF objects out of 1000 (max. 8388607)
+ 419 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
 
