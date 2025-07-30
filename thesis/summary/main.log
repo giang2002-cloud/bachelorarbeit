@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 01:07
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 03:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -686,11 +686,6 @@ Overfull \hbox (3.00099pt too wide) in paragraph at lines 80--81
 [10]
 
 [11]
-Overfull \hbox (17.28519pt too wide) in paragraph at lines 174--175
-[]\TU/TimesNewRoman(0)/m/n/12 Strong societal and ethical practices are positively linked to higher market valuation ([]Chouaibi
- []
-
-
 
 [12]) (./chapters/chapter3.tex
 
@@ -774,17 +769,19 @@ Overfull \hbox (17.00864pt too wide) in paragraph at lines 54--57
 [26])
 
 [27]
-
-[28
-
-]
-Overfull \hbox (9.71246pt too wide) in paragraph at lines 43--43
-[][]\TU/TimesNewRoman(0)/m/n/12 Belal, Ataur (2016). “Greenwashing in SSR Reporting”. In: \TU/TimesNewRoman(0)/m/it/12 Business Ethics Quarterly \TU/TimesNewRoman(0)/m/n/12 26, pp. 123–
+Overfull \hbox (1.68967pt too wide) in paragraph at lines 43--43
+\TU/TimesNewRoman(0)/m/n/12 Practice, Decent Work and Human Rights Performance and Reporting: The Impact of Women
  []
 
 
 
-[29] (./main.aux)
+[28
+
+]
+
+[29]
+
+[30] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
@@ -796,12 +793,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18890 strings out of 469674
- 379702 string characters out of 5470704
- 1275344 words of memory out of 5000000
- 47080 multiletter control sequences out of 15000+600000
- 630105 words of font info for 73 fonts, out of 8000000 for 9000
+ 18900 strings out of 469674
+ 379958 string characters out of 5470704
+ 1275346 words of memory out of 5000000
+ 47086 multiletter control sequences out of 15000+600000
+ 630121 words of font info for 75 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 73i,13n,93p,742b,5067s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,93p,742b,5072s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (29 pages).
+Output written on main.pdf (30 pages).
