@@ -4,8 +4,7 @@
 % Packages for formatting
 \usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
 \usepackage{setspace}
-\usepackage{fontspec}
-\setmainfont{Times New Roman}
+\usepackage{times}
 \usepackage{graphicx}
 \usepackage{tocloft}
 \usepackage[backend=biber,style=authoryear,sorting=nyt]{biblatex}
@@ -21,9 +20,11 @@
 }
 
 % Line spacing
-\onehalfspacing
+\renewcommand{\baselinestretch}{1.5}
 
 \begin{document}
+
+\pagenumbering{roman}
 
 \input{chapters/titlepage.tex}
 \clearpage
@@ -32,6 +33,8 @@
 \tableofcontents
 \clearpage
 
+\pagenumbering{arabic}
+
 % Chapters and sections
 \input{chapters/chapter1.tex}
 \input{chapters/chapter2.tex}
@@ -39,7 +42,6 @@
 \input{chapters/chapter4.tex}
 \input{chapters/chapter5.tex}
 \input{chapters/chapter6.tex}
-
 
 % Bibliography
 \renewcommand{\bibname}{REFERENCES}
