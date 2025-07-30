@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 04:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 04:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -554,12 +554,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 ...3.3.2}Data Analysis}{16}{subsection.3.3.2}
-                                                  % [1
+[2
 
 ])
 \tf@toc=\write5
@@ -567,14 +562,19 @@ l.66 ...3.3.2}Data Analysis}{16}{subsection.3.3.2}
 
 
 
-[2] (./chapters/chapter1.tex
+[3] (./chapters/chapter1.tex
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
 (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
-[1
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20     \item H
+                owever, there is currently no clear or tailored SSR framewor... [1
 
 
 ]
@@ -688,14 +688,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  17266 strings out of 469703
- 303431 string characters out of 5479759
+ 303433 string characters out of 5479759
  1137806 words of memory out of 5000000
  45275 multiletter control sequences out of 15000+600000
  643302 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  63i,13n,67p,752b,1525s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (32 pages, 116977 bytes).
+Output written on main.pdf (32 pages, 116978 bytes).
 PDF statistics:
  617 PDF objects out of 1000 (max. 8388607)
  569 compressed objects within 6 object streams
