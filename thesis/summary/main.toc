@@ -29,14 +29,14 @@
 \contentsline {subsection}{\numberline {2.2.1}Institutional Theory (DiMaggio \& Powell, 1983)}{6}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Resource-Based View (RBV) (Barney, 1991)}{6}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Stakeholder Theory (Freeman, 1984)}{6}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Literature Review}{6}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Overview of Prior Research}{6}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.3}Overview of Prior Research}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Existing Literature on Social Reporting in Software Sector}{6}{subsection.2.3.1}%
 \contentsline {subsubsection}{Sector-Specific SSR Studies}{6}{section*.16}%
 \contentsline {subsubsection}{ESG in the Technology Sector}{6}{section*.17}%
-\contentsline {subsection}{\numberline {2.3.2}Existing Readiness Assessment Models}{7}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.2}Existing Readiness Assessment Frameworks}{7}{subsection.2.3.2}%
 \contentsline {subsubsection}{Prior Frameworks}{7}{section*.18}%
 \contentsline {subsubsection}{Identified Gap}{7}{section*.19}%
-\contentsline {subsection}{\numberline {2.3.3}Drivers and Challenges in Prior Research}{7}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}Literature-Based Drivers and Challenges}{7}{subsection.2.3.3}%
 \contentsline {subsubsection}{Drivers}{7}{section*.20}%
 \contentsline {subsubsection}{Challenges}{7}{section*.21}%
 \contentsline {subsection}{\numberline {2.3.4}Analytical Orientation Informed by Prior Research}{8}{subsection.2.3.4}%
@@ -58,11 +58,11 @@
 \contentsline {section}{\numberline {4.2}Readiness by Company Characteristics}{13}{section.4.2}%
 \contentsline {subsubsection}{Comparison of readiness based on:}{13}{section*.28}%
 \contentsline {section}{\numberline {4.3}Analysis by the Framework Categories}{13}{section.4.3}%
-\contentsline {subsubsection}{Readiness across thematic groups: (To be altered by further analysis)}{13}{section*.29}%
+\contentsline {subsubsection}{Readiness across thematic groups}{13}{section*.29}%
 \contentsline {subsubsection}{Readiness by Mid-Groups}{14}{section*.30}%
 \contentsline {subsubsection}{Top and Bottom Reporting Sub-Criteria}{14}{section*.31}%
-\contentsline {section}{\numberline {4.4}Empirical Drivers and Challenges}{15}{section.4.4}%
-\contentsline {subsubsection}{Key Drivers of Reporting Readiness}{15}{section*.32}%
+\contentsline {section}{\numberline {4.4}Empirical Drivers and Challenges}{14}{section.4.4}%
+\contentsline {subsubsection}{Key Drivers of Reporting Readiness}{14}{section*.32}%
 \contentsline {subsubsection}{Key Challenges Hindering Reporting Readiness}{15}{section*.33}%
 \contentsline {section}{\numberline {4.5}Summary of Findings}{15}{section.4.5}%
 \contentsline {chapter}{\numberline {5}DISCUSSION ON EMPIRICAL RESULTS}{16}{chapter.5}%
@@ -81,13 +81,8 @@
 \contentsline {section}{\numberline {5.4}Academic Contributions}{18}{section.5.4}%
 \contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{19}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Research Summary and Conclusions}{19}{section.6.1}%
-\contentsline {subsubsection}{Research Summary (Proposal)}{19}{section*.41}%
-\contentsline {subsubsection}{Key Conclusions (Proposal)}{19}{section*.42}%
-\contentsline {subsubsection}{Unique Sector Traits}{20}{section*.43}%
-\contentsline {section}{\numberline {6.2}Contributions of the Study}{20}{section.6.2}%
-\contentsline {subsubsection}{Academic Contribution}{20}{section*.44}%
-\contentsline {subsubsection}{Practical Contribution}{20}{section*.45}%
-\contentsline {section}{\numberline {6.3}Recommendations}{21}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Research Limitations}{21}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Suggestions for Future Research}{21}{section.6.5}%
-\contentsline {chapter}{REFERENCES}{22}{chapter*.46}%
+\contentsline {section}{\numberline {6.2}Contributions of the Study}{19}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Recommendations}{19}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Research Limitations}{20}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Suggestions for Future Research}{20}{section.6.5}%
+\contentsline {chapter}{REFERENCES}{21}{chapter*.41}%
