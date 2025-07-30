@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 03:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.25)  30 JUL 2025 03:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
-(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
+**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
+(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -242,7 +242,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language49
+\blx@langwohyphens=\language10
 \c@mincomprange=\count344
 \c@maxcomprange=\count345
 \c@mincompwidth=\count346
@@ -730,22 +730,22 @@ Underfull \hbox (badness 1354) in paragraph at lines 21--21
 [22
 
 ]
-Underfull \hbox (badness 1354) in paragraph at lines 38--38
+Underfull \hbox (badness 1354) in paragraph at lines 39--39
 []\TU/TimesNewRoman(0)/m/n/12 Difficulty in collecting and stan-
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 38--39
+Underfull \hbox (badness 2503) in paragraph at lines 39--40
 []\TU/TimesNewRoman(0)/m/n/12 RBV: Reflects lack of systems, tools, and
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 40--40
+Underfull \hbox (badness 1728) in paragraph at lines 41--41
 []\TU/TimesNewRoman(0)/m/n/12 Informal labor, globalization, re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 []\TU/TimesNewRoman(0)/m/n/12 Institutional Theory: Fragmented settings
  []
 
@@ -769,8 +769,8 @@ Overfull \hbox (17.00864pt too wide) in paragraph at lines 54--57
 [26])
 
 [27]
-Overfull \hbox (1.68967pt too wide) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/12 Practice, Decent Work and Human Rights Performance and Reporting: The Impact of Women
+Overfull \hbox (0.8862pt too wide) in paragraph at lines 43--43
+[][]\TU/TimesNewRoman(0)/m/n/12 Bochkay, K., J. Hales, and G. Serafeim (2025). “Disclosure standards and communication norms:
  []
 
 
@@ -778,6 +778,11 @@ Overfull \hbox (1.68967pt too wide) in paragraph at lines 43--43
 [28
 
 ]
+Overfull \hbox (4.09128pt too wide) in paragraph at lines 43--43
+[][]\TU/TimesNewRoman(0)/m/n/12 Mani, V., A. Gunasekaran, and C. Delgado (2018). “Enhancing supply chain performance through
+ []
+
+
 
 [29]
 
@@ -793,12 +798,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18900 strings out of 469674
- 379958 string characters out of 5470704
- 1275346 words of memory out of 5000000
- 47086 multiletter control sequences out of 15000+600000
- 630121 words of font info for 75 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 73i,13n,93p,742b,5072s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18913 strings out of 470384
+ 380376 string characters out of 5488845
+ 1273625 words of memory out of 5000000
+ 47045 multiletter control sequences out of 15000+600000
+ 630105 words of font info for 73 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 73i,13n,93p,752b,5069s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (30 pages).

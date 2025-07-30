@@ -172,7 +172,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>none</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2391,45 +2391,72 @@
     <bcf:citekey order="13" intorder="1">Ye2020</bcf:citekey>
     <bcf:citekey order="13" intorder="2">Afshari2022</bcf:citekey>
     <bcf:citekey order="14" intorder="1">Lock2016</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Fifka2012</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Fifka2013</bcf:citekey>
     <bcf:citekey order="16" intorder="1">Christensen2021</bcf:citekey>
     <bcf:citekey order="16" intorder="2">Reitmaier2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Reitmaier2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="2">Bochkay2025</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Bonnefon2025</bcf:citekey>
-    <bcf:citekey order="18" intorder="2">Dai2019</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Reitmaier2024</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">Dai2019</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">Chouaibi2021</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Bochkay2025</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Troshani2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="2">ElBaz2022</bcf:citekey>
-    <bcf:citekey order="23" intorder="3">Jona2023</bcf:citekey>
-    <bcf:citekey order="23" intorder="4">Belal2016</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">Dai2019</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">Reitmaier2024</bcf:citekey>
-    <bcf:citekey order="25" intorder="2">Belal2016</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">Dai2019</bcf:citekey>
-    <bcf:citekey order="26" intorder="2">Najjar2023</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">Christensen2021</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Barker2025</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">Nava2023</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Najjar2024</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Nava2023</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ElBaz2022</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Afshari2022</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Zopounidis2020</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Siew2015</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Okongwu2013</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Barletta2021</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Reitmaier2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="2">Bochkay2025</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Bonnefon2025</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">Dai2021</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Reitmaier2024</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Dai2021</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Chouaibi2021</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Bochkay2025</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Troshani2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">ElBaz2022</bcf:citekey>
+    <bcf:citekey order="30" intorder="3">Jona2023</bcf:citekey>
+    <bcf:citekey order="30" intorder="4">Belal2015</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Dai2021</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Reitmaier2024</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">Belal2015</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Dai2021</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">Najjar2023</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Christensen2021</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Barker2025</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Nava2023</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Najjar2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="none">
+  <bcf:sortingtemplate name="nyt">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+      <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2">
-      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="none/global//global/global/global"
+                name="nyt/global//global/global/global"
                 type="entry"
-                sortingtemplatename="none"
+                sortingtemplatename="nyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"
