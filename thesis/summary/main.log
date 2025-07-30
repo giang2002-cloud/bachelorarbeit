@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 04:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 05:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
-(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
+**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
+(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -186,7 +186,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language10
+\blx@langwohyphens=\language49
 \c@mincomprange=\count334
 \c@maxcomprange=\count335
 \c@mincompwidth=\count336
@@ -573,75 +573,60 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20     \item H
-                owever, there is currently no clear or tailored SSR framewor... [1
+l.29     \item E
+                valuate the SSR readiness of software companies using the de... [1
 
 
 ]
 
-[2]
+[2]) (./chapters/chapter2.tex
 
-[3]) (./chapters/chapter2.tex
-
-[4]
+[3]
 Chapter 2.
 
 
-[5
+[4
 
 ]
-Overfull \hbox (2.69331pt too wide) in paragraph at lines 39--40
-[]\OT1/ptm/m/n/12 ISO 26000: Vol-un-tary in-ter-na-tional guide-line pro-mot-ing so-cial re-spon-si-bil-ity across stake-
- []
 
-
+[5]
 
 [6]
 
-[7]
+[7]) (./chapters/chapter3.tex
 
 [8]
-
-[9]
-
-[10]
-
-[11]) (./chapters/chapter3.tex
-
-[12]
 Chapter 3.
 
-Overfull \hbox (3.6778pt too wide) in paragraph at lines 29--30
-[]\OT1/ptm/m/n/12 Propose di-rec-tions for im-prov-ing the frame-work and align-ing SSR ca-pa-bil-i-ties with emerg-
+Overfull \hbox (10.62633pt too wide) in paragraph at lines 25--26
+[]\OT1/ptm/m/n/12 Sampling Cri-te-ria: 30 soft-ware com-pa-nies in Eu-rope (2022-2023) with avail-able ESG/social
  []
 
 
 
-[13
+[9
 
 ]
 
-[14]
+[10]) (./chapters/chapter4.tex
 
-[15]) (./chapters/chapter4.tex
-
-[16]
+[11]
 Chapter 4.
 
 
-[17
+[12
 
 ]
 
-[18]
+[13]
 
-[19]) (./chapters/chapter5.tex
+[14]) (./chapters/chapter5.tex
 
-[20]
+[15]
 Chapter 5.
 
 
-[21
+[16
 
 ]
 Underfull \hbox (badness 5817) in paragraph at lines 41--42
@@ -650,13 +635,13 @@ Underfull \hbox (badness 5817) in paragraph at lines 41--42
 
 
 
-[22]) (./chapters/chapter6.tex
+[17]) (./chapters/chapter6.tex
 
-[23]
+[18]
 Chapter 6.
 
 
-[24
+[19
 
 ]
 Overfull \hbox (18.19756pt too wide) in paragraph at lines 54--57
@@ -665,40 +650,36 @@ Overfull \hbox (18.19756pt too wide) in paragraph at lines 54--57
 
 
 
-[25])
+[20])
 
-[26]
+[21]
 
-[27
+[22
 
-]
-
-[28]
-
-[29] (./main.aux)
+] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E5471E8C2A43C152D4025E56831187B1;10451.
+(rerunfilecheck)             Checksum: E5989DF6D768D3626E39E3A9D0E03EBA;10451.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17266 strings out of 469703
- 303433 string characters out of 5479759
- 1137806 words of memory out of 5000000
- 45275 multiletter control sequences out of 15000+600000
+ 17060 strings out of 468940
+ 298228 string characters out of 5457270
+ 1137900 words of memory out of 5000000
+ 45179 multiletter control sequences out of 15000+600000
  643302 words of font info for 68 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 63i,13n,67p,752b,1525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 430 hyphenation exceptions out of 8191
+ 63i,13n,67p,742b,1446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (32 pages, 116978 bytes).
+Output written on main.pdf (25 pages, 94495 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 569 compressed objects within 6 object streams
- 200 named destinations out of 1000 (max. 500000)
+ 489 PDF objects out of 1000 (max. 8388607)
+ 449 compressed objects within 5 object streams
+ 148 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
