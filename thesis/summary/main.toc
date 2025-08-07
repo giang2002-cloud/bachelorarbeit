@@ -26,7 +26,7 @@
 \contentsline {subsubsection}{Paragraph 1: Drivers of Social Sustainability Reporting}{5}{section*.19}%
 \contentsline {subsubsection}{Paragraph 2: Barriers to Social Sustainability Reporting}{5}{section*.20}%
 \contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Approach and Design}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Research Design and Methodological Approach for Social Sustainability Readiness}{6}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Assessment Framework and Data Analysis}{6}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Developing the SSR Readiness Framework}{6}{subsection.3.2.1}%
 \contentsline {subsubsection}{Reference Standards}{6}{section*.21}%
