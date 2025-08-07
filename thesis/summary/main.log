@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  30 JUL 2025 06:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  7 AUG 2025 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
-(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
+**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
+(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -186,7 +186,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language10
+\blx@langwohyphens=\language49
 \c@mincomprange=\count334
 \c@maxcomprange=\count335
 \c@mincompwidth=\count336
@@ -564,67 +564,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [3] (./chapters/chapter1.tex
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
-(c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29     \item E
-                valuate the SSR readiness of software companies using the de... [1
+l.37 
+      [1
 
 
 ]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 41.
+ (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) (./chapters/chapter2.tex
 
-[2]) (./chapters/chapter2.tex
-
-[3]
+[2]
 Chapter 2.
 
 
-[4
+[3
 
 ]
+
+[4]) (./chapters/chapter3.tex
 
 [5]
-
-[6]) (./chapters/chapter3.tex
-
-[7]
 Chapter 3.
 
-Overfull \hbox (10.62633pt too wide) in paragraph at lines 25--26
-[]\OT1/ptm/m/n/12 Sampling Cri-te-ria: 30 soft-ware com-pa-nies in Eu-rope (2022-2023) with avail-able ESG/social
- []
 
-
-
-[8
+[6
 
 ]
 
-[9]) (./chapters/chapter4.tex
+[7]) (./chapters/chapter4.tex
 
-[10]
+[8]
 Chapter 4.
 
 
-[11
+[9
 
 ]
 
+[10]
+
+[11]) (./chapters/chapter5.tex
+
 [12]
-
-[13]) (./chapters/chapter5.tex
-
-[14]
 Chapter 5.
 
 
-[15
+[13
 
 ]
 Underfull \hbox (badness 5817) in paragraph at lines 41--42
@@ -633,13 +625,13 @@ Underfull \hbox (badness 5817) in paragraph at lines 41--42
 
 
 
-[16]) (./chapters/chapter6.tex
+[14]) (./chapters/chapter6.tex
 
-[17]
+[15]
 Chapter 6.
 
 
-[18
+[16
 
 ])
 
@@ -647,30 +639,61 @@ LaTeX Warning: Empty bibliography on input line 50.
 
 
 
-[19] (./main.aux)
+[17] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EE8A719AF9C60ADDB4A6BCDC774831CF;10587.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 9ADB76ECA64FF4E5B01E330E46C89165;10318
+(rerunfilecheck)             After:  0661B1B695EA7B2DBA833B705FA9D958;8103.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16804 strings out of 469703
- 292935 string characters out of 5479759
- 1135596 words of memory out of 5000000
- 44881 multiletter control sequences out of 15000+600000
+ 16787 strings out of 468940
+ 292682 string characters out of 5457270
+ 1137564 words of memory out of 5000000
+ 44932 multiletter control sequences out of 15000+600000
  641618 words of font info for 66 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 63i,13n,67p,752b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 430 hyphenation exceptions out of 8191
+ 63i,13n,67p,742b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.2.6.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.6.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.6.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.2.6} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.5.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.5.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.5.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.2.5.1} has been referenced but does not exist, replaced by a fixed one
+
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (22 pages, 95392 bytes).
+Output written on main.pdf (20 pages, 91670 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
- 134 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
