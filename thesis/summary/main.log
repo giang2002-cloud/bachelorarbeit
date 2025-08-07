@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  8 AUG 2025 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  8 AUG 2025 01:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
-(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
+**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
+(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -186,7 +186,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language49
+\blx@langwohyphens=\language10
 \c@mincomprange=\count334
 \c@maxcomprange=\count335
 \c@mincompwidth=\count336
@@ -434,32 +434,44 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip107
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+ (c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip108
+\aftertitleunit=\skip109
+\ttl@plus=\dimen163
+\ttl@minus=\dimen164
+\ttl@toksa=\toks21
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
+)
 \@quotelevel=\count429
 \@quotereset=\count430
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 25.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 40.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -498,16 +510,16 @@ LaTeX Font Info:    ... okay on input line 25.
 (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count431
-\scratchdimen=\dimen163
-\scratchbox=\box55
+\scratchdimen=\dimen168
+\scratchbox=\box56
 \nofMPsegments=\count432
 \nofMParguments=\count433
-\everyMPshowfont=\toks21
+\everyMPshowfont=\toks22
 \MPscratchCnt=\count434
-\MPscratchDim=\dimen164
+\MPscratchDim=\dimen169
 \MPnumerator=\count435
 \makeMPintoPDFobject=\count436
-\everyMPtoPDFconversion=\toks22
+\everyMPtoPDFconversion=\toks23
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -527,8 +539,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 25.
-Package biblatex Info: Reference segment=0 on input line 25.
+Package biblatex Info: Reference section=0 on input line 40.
+Package biblatex Info: Reference segment=0 on input line 40.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
  (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -536,7 +548,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 40.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -570,8 +582,8 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 
-      [1
+l.41     \item C
+                hapter 2 reviews relevant literature, including definitions, [1
 
 
 ]
@@ -586,9 +598,9 @@ Chapter 2.
 
 [3
 
-]
+]) (./chapters/chapter3.tex
 
-[4]) (./chapters/chapter3.tex
+[4]
 
 [5]
 Chapter 3.
@@ -608,68 +620,59 @@ Chapter 4.
 
 ]
 
-[10]
+[10]) (./chapters/chapter5.tex
 
-[11]) (./chapters/chapter5.tex
-
-[12]
+[11]
 Chapter 5.
 
-
-[13
-
-]
 Underfull \hbox (badness 5817) in paragraph at lines 41--42
 []\OT1/ptm/m/n/12 Institutional The-ory: Frag-mented set-tings
  []
 
 
 
-[14]) (./chapters/chapter6.tex
+[12
 
-[15]
+]
+
+[13]) (./chapters/chapter6.tex
+
+[14]
 Chapter 6.
 
 
-[16
+[15
 
 ])
 
-LaTeX Warning: Empty bibliography on input line 50.
+LaTeX Warning: Empty bibliography on input line 65.
 
 
 
-[17] (./main.aux)
+[16] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 0661B1B695EA7B2DBA833B705FA9D958;8103
-(rerunfilecheck)             After:  D70E9B5D82654E783B3E00B6FDABFEA7;8373.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D70E9B5D82654E783B3E00B6FDABFEA7;8373.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16771 strings out of 468940
- 292420 string characters out of 5457270
- 1137564 words of memory out of 5000000
- 44924 multiletter control sequences out of 15000+600000
+ 17025 strings out of 469703
+ 295960 string characters out of 5479759
+ 1141435 words of memory out of 5000000
+ 45156 multiletter control sequences out of 15000+600000
  641618 words of font info for 66 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 63i,13n,67p,742b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 36 hyphenation exceptions out of 8191
+ 63i,11n,67p,752b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (20 pages, 90667 bytes).
+Output written on main.pdf (19 pages, 89180 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 335 compressed objects within 4 object streams
- 116 named destinations out of 1000 (max. 500000)
+ 320 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
