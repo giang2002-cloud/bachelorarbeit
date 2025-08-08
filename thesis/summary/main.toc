@@ -7,7 +7,7 @@
 \contentsline {subsubsection}{Paragraph 6: Research Questions (RQs)}{2}{chapter.1}%
 \contentsline {subsubsection}{Paragraph 7: Structure of the Research}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}THEORETICAL BACKGROUND, PRIOR LITERATURE, AND CONCEPTUAL FOUNDATIONS}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Theoretical frameworks for social sustainability reporting readiness in software services}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Theoretical frameworks for social sustainability reporting (SSR) readiness in software services}{3}{section.2.1}%
 \contentsline {subsubsection}{1. Opening Paragraph (ca. 1/3 page): Introduction to the role of theory in this research}{3}{section.2.1}%
 \contentsline {subsubsection}{2. Main body paragraphs (ca. 2 page): Overview of key theories}{3}{section.2.1}%
 \contentsline {subsubsection}{a. Institutional Theory}{3}{section.2.1}%

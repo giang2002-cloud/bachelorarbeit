@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  8 AUG 2025 04:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  8 AUG 2025 04:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,6 +603,11 @@ Overfull \hbox (15.16373pt too wide) in paragraph at lines 1--1
  []
 
 
+Overfull \hbox (6.18382pt too wide) in paragraph at lines 3--3
+|[]\OT1/ptm/b/n/14.4 Theoretical frame-works for so-cial sus-tain-abil-ity re-port-ing (SSR) readi-
+ []
+
+
 
 [3
 
@@ -664,8 +669,15 @@ LaTeX Warning: Empty bibliography on input line 65.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3BF030B8F5D28353959A6886EBB7A608;5723.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 32C4B2E0FFEFA6920A8A68F4844CA729;5759
+(rerunfilecheck)             After:  0E1DAE32F05CF3C169DB5AD3960B922F;5762.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -679,7 +691,7 @@ Here is how much of TeX's memory you used:
  430 hyphenation exceptions out of 8191
  63i,11n,67p,742b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (14 pages, 67160 bytes).
+Output written on main.pdf (14 pages, 67186 bytes).
 PDF statistics:
  209 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams
