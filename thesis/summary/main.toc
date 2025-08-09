@@ -20,7 +20,7 @@
 \contentsline {section}{\numberline {2.3}Sectoral Characteristics and Reporting Practices in Software Services}{4}{section.2.3}%
 \contentsline {subsubsection}{Paragraph 1: Sector Characteristics}{4}{section.2.3}%
 \contentsline {subsubsection}{Paragraph 2: Reporting Practices in the Software Services}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Conceptualizations and Existing Frameworks of Reporting Readiness}{4}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Conceptualizations and Prior Approaches to Reporting Readiness}{4}{section.2.4}%
 \contentsline {subsubsection}{Paragraph 1: Definition of Reporting Readiness}{4}{section.2.4}%
 \contentsline {subsubsection}{Paragraph 2: Existing Frameworks}{4}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Literature-Based Drivers and Barriers}{4}{section.2.5}%
