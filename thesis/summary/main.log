@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  9 AUG 2025 04:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  9 AUG 2025 06:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -608,26 +608,33 @@ Overfull \hbox (6.18382pt too wide) in paragraph at lines 3--3
  []
 
 
+Overfull \hbox (7.15782pt too wide) in paragraph at lines 35--38
+\OT1/ptm/m/n/12 Social sus-tain-abil-ity re-port-ing in this re-search high-lights the S-Pillar in CSR Re-port-ing. Overview
+ []
+
+
 
 [3
 
-]) (./chapters/chapter3.tex
+]
 
 [4]
 
-[5]
+[5]) (./chapters/chapter3.tex
+
+[6]
 Chapter 3.
 
 
-[6
+[7
 
 ]) (./chapters/chapter4.tex
 
-[7]
+[8]
 Chapter 4.
 
 
-[8
+[9
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 44--46
@@ -646,13 +653,13 @@ Underfull \hbox (badness 5817) in paragraph at lines 60--61
 
 
 
-[9]) (./chapters/chapter5.tex
+[10]) (./chapters/chapter5.tex
 
-[10]
+[11]
 Chapter 5.
 ) (./chapters/chapter6.tex
 
-[11
+[12
 
 ]
 Chapter 6.
@@ -662,39 +669,32 @@ LaTeX Warning: Empty bibliography on input line 65.
 
 
 
-[12
+[13
 
 ] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 89E43E6EB92FF8E9F888018BB55C739A;5792
-(rerunfilecheck)             After:  5AB3BF3D25DF10C386146C36C004ABE8;5747.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5AB3BF3D25DF10C386146C36C004ABE8;5747.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16979 strings out of 468940
- 295384 string characters out of 5457270
+ 16980 strings out of 468940
+ 295391 string characters out of 5457270
  1142403 words of memory out of 5000000
  45198 multiletter control sequences out of 15000+600000
  641618 words of font info for 66 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  63i,11n,67p,742b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (14 pages, 67186 bytes).
+Output written on main.pdf (15 pages, 69204 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
