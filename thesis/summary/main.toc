@@ -40,33 +40,34 @@
 \contentsline {subsubsection}{Framework Structure}{7}{section.3.2}%
 \contentsline {subsubsection}{Rationale for Grouping}{8}{Item.10}%
 \contentsline {subsubsection}{Scoring System}{8}{Item.10}%
-\contentsline {subsubsection}{Data Analysis}{8}{Item.10}%
-\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}SSR Readiness by Organizational Characteristics}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Thematic Readiness by Framework Dimensions}{9}{section.4.2}%
-\contentsline {subsubsection}{1. Readiness by Main Groups}{9}{section.4.2}%
-\contentsline {subsubsection}{2. Readiness by Mid-Groups}{9}{section.4.2}%
-\contentsline {subsubsection}{3. Top and Bottom Sub-Criteria}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Empirical Drivers and Challenges of SSR Readiness}{9}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Key Drivers}{10}{subsection.4.3.1}%
-\contentsline {subsubsection}{Driver}{10}{table.4.1}%
-\contentsline {subsubsection}{Theoretical Interpretation}{10}{table.4.1}%
-\contentsline {subsection}{\numberline {4.3.2}Key Challenges}{11}{subsection.4.3.2}%
-\contentsline {subsubsection}{Challenge}{11}{table.4.2}%
-\contentsline {subsubsection}{Theoretical Interpretation}{11}{table.4.2}%
-\contentsline {chapter}{\numberline {5}DISCUSSION AND IMPLICATIONS}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Implications for Practice}{12}{section.5.1}%
-\contentsline {subsubsection}{For Businesses}{12}{section.5.1}%
-\contentsline {subsubsection}{For Policymakers}{12}{section.5.1}%
-\contentsline {subsubsection}{For Standard-Setters and Rating Agencies}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Academic Contributions and Theoretical Reflections}{12}{section.5.2}%
-\contentsline {subsubsection}{Contributions}{12}{section.5.2}%
-\contentsline {subsubsection}{Critical Reflection}{12}{section.5.2}%
-\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{13}{chapter.6}%
-\contentsline {subsubsection}{Research Summary and Conclusions}{13}{chapter.6}%
-\contentsline {subsubsection}{Contributions of the Study}{13}{chapter.6}%
-\contentsline {subsubsection}{Recommendations}{13}{chapter.6}%
-\contentsline {subsubsection}{Methodological Limitations, Research Ethics, and Future Directions}{13}{chapter.6}%
-\contentsline {subsubsection}{Limitations}{13}{chapter.6}%
-\contentsline {subsubsection}{Research Ethics}{13}{chapter.6}%
-\contentsline {subsubsection}{Future Research Directions}{13}{chapter.6}%
+\contentsline {subsubsection}{Data Analysis}{9}{Item.10}%
+\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}SSR Readiness by Organizational Characteristics}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Thematic Readiness by Framework Dimensions}{10}{section.4.2}%
+\contentsline {subsubsection}{1. Readiness by Main Groups}{10}{section.4.2}%
+\contentsline {subsubsection}{2. Readiness by Mid-Groups}{10}{section.4.2}%
+\contentsline {subsubsection}{3. Top and Bottom Sub-Criteria}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Empirical Drivers and Challenges of SSR Readiness}{10}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Key Drivers}{11}{subsection.4.3.1}%
+\contentsline {subsubsection}{Driver}{11}{table.4.1}%
+\contentsline {subsubsection}{Theoretical Interpretation}{11}{table.4.1}%
+\contentsline {subsection}{\numberline {4.3.2}Key Challenges}{12}{subsection.4.3.2}%
+\contentsline {subsubsection}{Challenge}{12}{table.4.2}%
+\contentsline {subsubsection}{Theoretical Interpretation}{12}{table.4.2}%
+\contentsline {chapter}{\numberline {5}DISCUSSION AND IMPLICATIONS}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Implications for Practice}{13}{section.5.1}%
+\contentsline {subsubsection}{For Businesses}{13}{section.5.1}%
+\contentsline {subsubsection}{For Policymakers}{13}{section.5.1}%
+\contentsline {subsubsection}{For Standard-Setters and Rating Agencies}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Academic Contributions and Theoretical Reflections}{13}{section.5.2}%
+\contentsline {subsubsection}{Contributions}{13}{section.5.2}%
+\contentsline {subsubsection}{Critical Reflection}{13}{section.5.2}%
+\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{14}{chapter.6}%
+\contentsline {subsubsection}{Research Summary and Conclusions}{14}{chapter.6}%
+\contentsline {subsubsection}{Contributions of the Study}{14}{chapter.6}%
+\contentsline {subsubsection}{Recommendations}{14}{chapter.6}%
+\contentsline {subsubsection}{Methodological Limitations, Research Ethics, and Future Directions}{14}{chapter.6}%
+\contentsline {subsubsection}{Limitations}{14}{chapter.6}%
+\contentsline {subsubsection}{Research Ethics}{14}{chapter.6}%
+\contentsline {subsubsection}{Future Research Directions}{14}{chapter.6}%
+\contentsline {chapter}{REFERENCES}{15}{chapter*.1}%

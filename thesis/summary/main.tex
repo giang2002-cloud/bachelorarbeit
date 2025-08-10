@@ -9,6 +9,10 @@
 \usepackage{tocloft}
 \usepackage[backend=biber,style=authoryear,sorting=nyt]{biblatex}
 \addbibresource{bibliography.bib}
+
+% Configure biblatex to show both authors when there are 2, et al. for 3+
+\ExecuteBibliographyOptions{maxcitenames=2,mincitenames=1}
+
 \usepackage{float}
 \usepackage{hyperref}
 \hypersetup{

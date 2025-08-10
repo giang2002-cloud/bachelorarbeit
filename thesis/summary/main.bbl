@@ -16,5 +16,1154 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Afshari2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=febbe0cc02c739a6710fffcb6718b971}{%
+           family={Afshari},
+           familyi={A\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79ab1ab723d1a5b5b97257592880a20a}{%
+           family={Agnihotri},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af395e6f41177a5100116e5e96a9fab9}{%
+           family={Searcy},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b5aa9cffce5c1ff0d9629943a148cc}{%
+           family={Jaber},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi Y.},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64e6be63ced1d6f22841e3ea8cc1e28e}
+      \strng{fullhash}{127eca124677a840bdeda7b4f5b6b4e0}
+      \strng{fullhashraw}{127eca124677a840bdeda7b4f5b6b4e0}
+      \strng{bibnamehash}{64e6be63ced1d6f22841e3ea8cc1e28e}
+      \strng{authorbibnamehash}{64e6be63ced1d6f22841e3ea8cc1e28e}
+      \strng{authornamehash}{64e6be63ced1d6f22841e3ea8cc1e28e}
+      \strng{authorfullhash}{127eca124677a840bdeda7b4f5b6b4e0}
+      \strng{authorfullhashraw}{127eca124677a840bdeda7b4f5b6b4e0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Production and Consumption}
+      \field{title}{Social sustainability indicators: A comprehensive review with application in the energy sector}
+      \field{volume}{31}
+      \field{year}{2022}
+      \field{pages}{263\bibrangedash 286}
+      \range{pages}{24}
+    \endentry
+    \entry{Barletta2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1216505c2033c87b166cdacb88db3d1e}{%
+           family={Barletta},
+           familyi={B\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dd3b1ef6d2b61106dbaca42d343f969}{%
+           family={Despeisse},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d55935b179add65acb01f82765f2e27}{%
+           family={Hoffenson},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f1581b6e37fa321b4e4a1079012fff0}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2037469e639265ae7c0afa7e77976ed4}
+      \strng{fullhash}{1b6eb1545a6182f907ac2fac3f3724d8}
+      \strng{fullhashraw}{1b6eb1545a6182f907ac2fac3f3724d8}
+      \strng{bibnamehash}{2037469e639265ae7c0afa7e77976ed4}
+      \strng{authorbibnamehash}{2037469e639265ae7c0afa7e77976ed4}
+      \strng{authornamehash}{2037469e639265ae7c0afa7e77976ed4}
+      \strng{authorfullhash}{1b6eb1545a6182f907ac2fac3f3724d8}
+      \strng{authorfullhashraw}{1b6eb1545a6182f907ac2fac3f3724d8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Organisational sustainability readiness: A model and assessment tool for manufacturing companies}
+      \field{volume}{284}
+      \field{year}{2021}
+      \field{pages}{125404}
+      \range{pages}{1}
+    \endentry
+    \entry{Belal2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4143eaac75e880bcb5ff4cb35db9a7ed}{%
+           family={Belal},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ac3e1a4d230c9c622be6a13e5bb8dbe}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{624be73ddc0fb7c522ac14309ce3fbee}
+      \strng{fullhash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \strng{fullhashraw}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \strng{bibnamehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \strng{authorbibnamehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \strng{authornamehash}{624be73ddc0fb7c522ac14309ce3fbee}
+      \strng{authorfullhash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \strng{authorfullhashraw}{3875b9c84d50c5c4b6f4dccad76ea9e0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accounting, Auditing \& Accountability Journal}
+      \field{number}{7}
+      \field{title}{The rise and fall of stand-alone social reporting in a multinational subsidiary in Bangladesh: A case study}
+      \field{volume}{28}
+      \field{year}{2015}
+      \field{pages}{1160\bibrangedash 1192}
+      \range{pages}{33}
+    \endentry
+    \entry{Bochkay2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=47353562ab434eaa18f6749c6d0eea58}{%
+           family={Bochkay},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee7d6f9774c96af08c7b2fcb0942d49}{%
+           family={Hales},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d731dfddf8630095bf29d082df250f6c}{%
+           family={Serafeim},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5c38924482d5544a818807793e3de78}
+      \strng{fullhash}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \strng{fullhashraw}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \strng{bibnamehash}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \strng{authorbibnamehash}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \strng{authornamehash}{a5c38924482d5544a818807793e3de78}
+      \strng{authorfullhash}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \strng{authorfullhashraw}{2b57a6b55fc4aede4bab46366ee90eb3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Accounting Studies}
+      \field{title}{Disclosure standards and communication norms: Evidence of voluntary sustainability standards as a coordinating device for capital markets}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 44}
+      \range{pages}{44}
+    \endentry
+    \entry{Bonnefon2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=db81400f24a8c6d315c077aead5abff1}{%
+           family={Bonnefon},
+           familyi={B\bibinitperiod},
+           given={J.-F.},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=959427780d7fdc566eaf0a198c65616d}{%
+           family={Landier},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb590781732a695f7f12cfdf4b771fb3}{%
+           family={Sastry},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4172ca23c9583cfc30a833373f892cd7}{%
+           family={Thesmar},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a81252626be144b23e4793853eac0915}
+      \strng{fullhash}{0e0e40facb9bf8ca395987f95c8f6b8f}
+      \strng{fullhashraw}{0e0e40facb9bf8ca395987f95c8f6b8f}
+      \strng{bibnamehash}{a81252626be144b23e4793853eac0915}
+      \strng{authorbibnamehash}{a81252626be144b23e4793853eac0915}
+      \strng{authornamehash}{a81252626be144b23e4793853eac0915}
+      \strng{authorfullhash}{0e0e40facb9bf8ca395987f95c8f6b8f}
+      \strng{authorfullhashraw}{0e0e40facb9bf8ca395987f95c8f6b8f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{title}{The moral preferences of investors: Experimental evidence}
+      \field{volume}{163}
+      \field{year}{2025}
+      \field{pages}{103955}
+      \range{pages}{1}
+    \endentry
+    \entry{Chouaibi2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8de84db70e78b3ce78f903cc0d05bedc}{%
+           family={Chouaibi},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6514364e984d12ee8d21df2e09f7a48d}{%
+           family={Chouaibi},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0cc3ed1e2a5fd3f089c9cd5afe20518}
+      \strng{fullhash}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \strng{fullhashraw}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \strng{bibnamehash}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \strng{authorbibnamehash}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \strng{authornamehash}{d0cc3ed1e2a5fd3f089c9cd5afe20518}
+      \strng{authorfullhash}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \strng{authorfullhashraw}{6f16e2c84fb78b4a6b1e2d893513239f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Ethics and Systems}
+      \field{number}{3}
+      \field{title}{Social and ethical practices and firm value: the moderating effect of green innovation: evidence from international ESG data}
+      \field{volume}{37}
+      \field{year}{2021}
+      \field{pages}{442\bibrangedash 465}
+      \range{pages}{24}
+    \endentry
+    \entry{Christensen2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=21b63f7e01f4ecc2c7aeafc7e7bcd039}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a24985eb70ff6e5ef839e58c45366e16}{%
+           family={Hail},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59ab5b59b842bad19a3430ba4656fd7c}{%
+           family={Leuz},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dae4023d7fecb969647a76a1499d3d17}
+      \strng{fullhash}{9b9b70408e66474adea4ff6041c33e62}
+      \strng{fullhashraw}{9b9b70408e66474adea4ff6041c33e62}
+      \strng{bibnamehash}{9b9b70408e66474adea4ff6041c33e62}
+      \strng{authorbibnamehash}{9b9b70408e66474adea4ff6041c33e62}
+      \strng{authornamehash}{dae4023d7fecb969647a76a1499d3d17}
+      \strng{authorfullhash}{9b9b70408e66474adea4ff6041c33e62}
+      \strng{authorfullhashraw}{9b9b70408e66474adea4ff6041c33e62}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Accounting Studies}
+      \field{number}{3}
+      \field{title}{Mandatory CSR and sustainability reporting: Economic analysis and literature review}
+      \field{volume}{26}
+      \field{year}{2021}
+      \field{pages}{1176\bibrangedash 1248}
+      \range{pages}{73}
+    \endentry
+    \entry{Dai2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=84fc131e354a0d905d21c9b75fcd44cf}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbbd5346469f46de16e35af8676727ea}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb55fee55d77704adf7d63ba23ac9739}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39ac62e70838cb237b4366ee6d384ed9}
+      \strng{fullhash}{1794af9df79bf565e14204eb6c902704}
+      \strng{fullhashraw}{1794af9df79bf565e14204eb6c902704}
+      \strng{bibnamehash}{1794af9df79bf565e14204eb6c902704}
+      \strng{authorbibnamehash}{1794af9df79bf565e14204eb6c902704}
+      \strng{authornamehash}{39ac62e70838cb237b4366ee6d384ed9}
+      \strng{authorfullhash}{1794af9df79bf565e14204eb6c902704}
+      \strng{authorfullhashraw}{1794af9df79bf565e14204eb6c902704}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{number}{2}
+      \field{title}{Socially responsible corporate customers}
+      \field{volume}{142}
+      \field{year}{2021}
+      \field{pages}{598\bibrangedash 626}
+      \range{pages}{29}
+    \endentry
+    \entry{Edge2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a2d24d621ca67652605108f4d4eac97}{%
+           family={Edge},
+           familyi={E\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{fullhash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{fullhashraw}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{bibnamehash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{authorbibnamehash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{authornamehash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{authorfullhash}{0a2d24d621ca67652605108f4d4eac97}
+      \strng{authorfullhashraw}{0a2d24d621ca67652605108f4d4eac97}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian Accounting Review}
+      \field{number}{2}
+      \field{title}{Recent developments in sustainability reporting}
+      \field{volume}{32}
+      \field{year}{2022}
+      \field{pages}{151\bibrangedash 155}
+      \range{pages}{5}
+    \endentry
+    \entry{ElBaz2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=70ac77b3b02a5cef10339e54159e4be3}{%
+           family={El\bibnamedelima Baz},
+           familyi={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adde42e7ae9f9cfaf37685adc50d4abb}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ed7a2ca3ba5b42ff2e4f85552a5d7f5}{%
+           family={Akenroye},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75a867caa5708943df56ece440abde5e}{%
+           family={Cherrafi},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05723ae1a1405155f5fbec8a89a23553}{%
+           family={Derrouiche},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72c2fa7ed54ee1ee7cc5db0a4d4c4ca9}
+      \strng{fullhash}{e54e49c8d6384da703df190c5e3b7f41}
+      \strng{fullhashraw}{e54e49c8d6384da703df190c5e3b7f41}
+      \strng{bibnamehash}{72c2fa7ed54ee1ee7cc5db0a4d4c4ca9}
+      \strng{authorbibnamehash}{72c2fa7ed54ee1ee7cc5db0a4d4c4ca9}
+      \strng{authornamehash}{72c2fa7ed54ee1ee7cc5db0a4d4c4ca9}
+      \strng{authorfullhash}{e54e49c8d6384da703df190c5e3b7f41}
+      \strng{authorfullhashraw}{e54e49c8d6384da703df190c5e3b7f41}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{A framework of sustainability drivers and externalities for Industry 4.0 technologies using the Best-Worst Method}
+      \field{volume}{344}
+      \field{year}{2022}
+      \field{pages}{130909}
+      \range{pages}{1}
+    \endentry
+    \entry{Fiechter2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=195c66ffe9bde286c509c3646ef0c00b}{%
+           family={Fiechter},
+           familyi={F\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c904ca9ce84679ae7cecfb859381683c}{%
+           family={Hitz},
+           familyi={H\bibinitperiod},
+           given={J.-M.},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6ffb68c3485844fd4c0e9ede8213c10}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{daa756c85c47cdd30af8a12a037aeff9}
+      \strng{fullhash}{c73bc7c36ae2bf8f96a60845062044ee}
+      \strng{fullhashraw}{c73bc7c36ae2bf8f96a60845062044ee}
+      \strng{bibnamehash}{c73bc7c36ae2bf8f96a60845062044ee}
+      \strng{authorbibnamehash}{c73bc7c36ae2bf8f96a60845062044ee}
+      \strng{authornamehash}{daa756c85c47cdd30af8a12a037aeff9}
+      \strng{authorfullhash}{c73bc7c36ae2bf8f96a60845062044ee}
+      \strng{authorfullhashraw}{c73bc7c36ae2bf8f96a60845062044ee}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Accounting Research}
+      \field{number}{4}
+      \field{title}{Real effects of a widespread CSR reporting mandate: Evidence from the European Union's CSR Directive}
+      \field{volume}{60}
+      \field{year}{2022}
+      \field{pages}{1499\bibrangedash 1549}
+      \range{pages}{51}
+    \endentry
+    \entry{Gai2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=de5b751569c188b686ffc9c406ef6202}{%
+           family={Gai},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=affea1eea259022b02645f142ef69c03}{%
+           family={Bellucci},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24f9c551468a9548788e955a696f2465}{%
+           family={Biggeri},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b003ff1a2553661bd7fc6f966c3b84c1}{%
+           family={Ferrone},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82e7b6d1b6f4519ecf69f1a42989c6ed}{%
+           family={Ielasi},
+           familyi={I\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ab0ddb1b49c84c50f3b6a4868211bea}
+      \strng{fullhash}{ba01b4147feadec871e5b3efdd97eee7}
+      \strng{fullhashraw}{ba01b4147feadec871e5b3efdd97eee7}
+      \strng{bibnamehash}{7ab0ddb1b49c84c50f3b6a4868211bea}
+      \strng{authorbibnamehash}{7ab0ddb1b49c84c50f3b6a4868211bea}
+      \strng{authornamehash}{7ab0ddb1b49c84c50f3b6a4868211bea}
+      \strng{authorfullhash}{ba01b4147feadec871e5b3efdd97eee7}
+      \strng{authorfullhashraw}{ba01b4147feadec871e5b3efdd97eee7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Finance Research Letters}
+      \field{title}{Banks' ESG disclosure: A new scoring model}
+      \field{volume}{57}
+      \field{year}{2023}
+      \field{pages}{104199}
+      \range{pages}{1}
+    \endentry
+    \entry{Tobias2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d64bcacac6a0d15eb860c6243ed1718e}{%
+           family={Gerwing},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24475e04cd6d097be20587242b1562e5}{%
+           family={Kajüter},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c88ae71f371b743f4d8e5f92e5cf6f9e}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c50e289964cd28a1de919ef69142c769}
+      \strng{fullhash}{f24133598cb5663a0a2d02e8cfc0af74}
+      \strng{fullhashraw}{f24133598cb5663a0a2d02e8cfc0af74}
+      \strng{bibnamehash}{f24133598cb5663a0a2d02e8cfc0af74}
+      \strng{authorbibnamehash}{f24133598cb5663a0a2d02e8cfc0af74}
+      \strng{authornamehash}{c50e289964cd28a1de919ef69142c769}
+      \strng{authorfullhash}{f24133598cb5663a0a2d02e8cfc0af74}
+      \strng{authorfullhashraw}{f24133598cb5663a0a2d02e8cfc0af74}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business Economics}
+      \field{number}{3}
+      \field{title}{The role of sustainable corporate governance in mandatory sustainability reporting quality}
+      \field{volume}{92}
+      \field{year}{2022}
+      \field{pages}{517\bibrangedash 555}
+      \range{pages}{39}
+    \endentry
+    \entry{Govindan2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=00c9c6345dc72fe62450a4416fdd7f14}{%
+           family={Govindan},
+           familyi={G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b388e43c0904e89dd37f92066cc5dea2}{%
+           family={Arampatzis},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b55060489eb0eee800b48dce36bf426b}
+      \strng{fullhash}{94ad67197d3653177f57e0b3fe4955d5}
+      \strng{fullhashraw}{94ad67197d3653177f57e0b3fe4955d5}
+      \strng{bibnamehash}{94ad67197d3653177f57e0b3fe4955d5}
+      \strng{authorbibnamehash}{94ad67197d3653177f57e0b3fe4955d5}
+      \strng{authornamehash}{b55060489eb0eee800b48dce36bf426b}
+      \strng{authorfullhash}{94ad67197d3653177f57e0b3fe4955d5}
+      \strng{authorfullhashraw}{94ad67197d3653177f57e0b3fe4955d5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronic Commerce Research and Applications}
+      \field{title}{A framework to measure readiness and barriers for the implementation of Industry 4.0: A case approach}
+      \field{volume}{59}
+      \field{year}{2023}
+      \field{pages}{101249}
+      \range{pages}{1}
+    \endentry
+    \entry{Jona2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fcaeee4bca1cdd34fb42c246123adc56}{%
+           family={Jona},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1556f76a48658a9f3a4945c441816e96}{%
+           family={Soderstrom},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7991969c5efef938e3cd3f048dc560df}
+      \strng{fullhash}{93cedb5972f129199e7564440adaebfe}
+      \strng{fullhashraw}{93cedb5972f129199e7564440adaebfe}
+      \strng{bibnamehash}{93cedb5972f129199e7564440adaebfe}
+      \strng{authorbibnamehash}{93cedb5972f129199e7564440adaebfe}
+      \strng{authornamehash}{7991969c5efef938e3cd3f048dc560df}
+      \strng{authorfullhash}{93cedb5972f129199e7564440adaebfe}
+      \strng{authorfullhashraw}{93cedb5972f129199e7564440adaebfe}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Management Accounting Research}
+      \field{number}{3}
+      \field{title}{Management accounting research opportunities in climate change reporting}
+      \field{volume}{35}
+      \field{year}{2023}
+      \field{pages}{13\bibrangedash 20}
+      \range{pages}{8}
+    \endentry
+    \entry{Filho2025}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=0187e6d872a24b5ee647173ce11b61c7}{%
+           family={Leal\bibnamedelima Filho},
+           familyi={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65f4a449e42420e2dead8b06bc5ec2f1}{%
+           family={Wall},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cbf6243abf01ddb093d8074a6483398}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1f5e3002b4be3d0b1ea40e16d63bd8f}{%
+           family={Pimenta\bibnamedelima Dinis},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=452b599b9569c5fc3a18753020a1d8ae}{%
+           family={Fernandez\bibnamedelima Martin},
+           familyi={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494a3cd985a7bc59d46d284cb1cd9eaa}{%
+           family={Mazhar},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67ccb9704b5180b670f6383fb079b4cf}{%
+           family={Gatto},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da84e961cd7b1e75517594e0b1f46b0e}
+      \strng{fullhash}{6a49ab9710ee456da500b6086953be38}
+      \strng{fullhashraw}{6a49ab9710ee456da500b6086953be38}
+      \strng{bibnamehash}{da84e961cd7b1e75517594e0b1f46b0e}
+      \strng{authorbibnamehash}{da84e961cd7b1e75517594e0b1f46b0e}
+      \strng{authornamehash}{da84e961cd7b1e75517594e0b1f46b0e}
+      \strng{authorfullhash}{6a49ab9710ee456da500b6086953be38}
+      \strng{authorfullhashraw}{6a49ab9710ee456da500b6086953be38}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{European sustainability reporting standards: An assessment of requirements and preparedness of EU companies}
+      \field{volume}{380}
+      \field{year}{2025}
+      \field{pages}{125008}
+      \range{pages}{1}
+    \endentry
+    \entry{Montero2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c8ec73abc9ad3e183fd3e23a87b618d4}{%
+           family={Milanés-Montero},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ae7f072b5445f6bdd5356d1cae82a54}{%
+           family={Fialho},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55d11d245b4d5b7b8818aa332e0f6f26}{%
+           family={Fernandes\bibnamedelima Ferreira},
+           familyi={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=264ec8edd7b6deca9bdbe4e5412bbeb1}{%
+           family={Pérez-Calderón},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4013183983d239afa75602b2a5211da}
+      \strng{fullhash}{8f62c0aeb666429436314c30fdf92dfe}
+      \strng{fullhashraw}{8f62c0aeb666429436314c30fdf92dfe}
+      \strng{bibnamehash}{c4013183983d239afa75602b2a5211da}
+      \strng{authorbibnamehash}{c4013183983d239afa75602b2a5211da}
+      \strng{authornamehash}{c4013183983d239afa75602b2a5211da}
+      \strng{authorfullhash}{8f62c0aeb666429436314c30fdf92dfe}
+      \strng{authorfullhashraw}{8f62c0aeb666429436314c30fdf92dfe}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Global Responsibility}
+      \field{title}{Spanish SME companies' readiness for European sustainability reporting standards compliance}
+      \field{year}{2025}
+    \endentry
+    \entry{Najjar2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ff406a456e39615fffa10dac335d462}{%
+           family={Najjar},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6729acd3c46f5ca0f15a591384745e}{%
+           family={Yasin},
+           familyi={Y\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebd226df23101233ad64354a368f56a3}
+      \strng{fullhash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \strng{fullhashraw}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \strng{bibnamehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \strng{authorbibnamehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \strng{authornamehash}{ebd226df23101233ad64354a368f56a3}
+      \strng{authorfullhash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \strng{authorfullhashraw}{3d8f7e86e7a1c1da902929e60e9dd5fb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Production Research}
+      \field{number}{14}
+      \field{title}{The management of global multi-tier sustainable supply chains: a complexity theory perspective}
+      \field{volume}{61}
+      \field{year}{2023}
+      \field{pages}{4853\bibrangedash 4870}
+      \range{pages}{18}
+    \endentry
+    \entry{Nguyen2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=63a26ced3acae1676ed877cb60229eb5}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi T.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac174729f43c0e3879def31bbf790ddd}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={L.\bibnamedelimi T.\bibnamedelimi H.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94ca0523057e2babc9fac82e5c70e01e}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi T.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebd06f5e5c0326f540971b4806ea06ca}{%
+           family={Phan},
+           familyi={P\bibinitperiod},
+           given={L.\bibnamedelimi L.\bibnamedelimi T.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55e32a08691265ae930a34695cd61b01}
+      \strng{fullhash}{1beeb9195c1f9a081904c59351bd9968}
+      \strng{fullhashraw}{1beeb9195c1f9a081904c59351bd9968}
+      \strng{bibnamehash}{55e32a08691265ae930a34695cd61b01}
+      \strng{authorbibnamehash}{55e32a08691265ae930a34695cd61b01}
+      \strng{authornamehash}{55e32a08691265ae930a34695cd61b01}
+      \strng{authorfullhash}{1beeb9195c1f9a081904c59351bd9968}
+      \strng{authorfullhashraw}{1beeb9195c1f9a081904c59351bd9968}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Problems and Perspectives in Management}
+      \field{number}{3}
+      \field{title}{Factors affecting the readiness for ESG reporting in Vietnamese enterprises}
+      \field{volume}{22}
+      \field{year}{2024}
+      \field{pages}{263}
+      \range{pages}{1}
+    \endentry
+    \entry{Nicolo2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=63290f763190b42908de39cf89a78239}{%
+           family={Nicolo},
+           familyi={N\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b24a56038970854b39deab3cf0f6534}{%
+           family={Zampone},
+           familyi={Z\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48afc08e4a1fc0200d4e073adb0191f5}{%
+           family={Sannino},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6589d841bf4fd78c9fd5117f75e73d1c}{%
+           family={Polcini},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06532674a8a5ce1950c75a71d59f5587}
+      \strng{fullhash}{dab0e526f25318403c02d66c2a8d1109}
+      \strng{fullhashraw}{dab0e526f25318403c02d66c2a8d1109}
+      \strng{bibnamehash}{06532674a8a5ce1950c75a71d59f5587}
+      \strng{authorbibnamehash}{06532674a8a5ce1950c75a71d59f5587}
+      \strng{authornamehash}{06532674a8a5ce1950c75a71d59f5587}
+      \strng{authorfullhash}{dab0e526f25318403c02d66c2a8d1109}
+      \strng{authorfullhashraw}{dab0e526f25318403c02d66c2a8d1109}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Business Strategy and the Environment}
+      \field{title}{Ready for Change After the Omnibus Package? Early Compliance With the European Sustainability Reporting Standards and Its Key Determinants in the New Regulatory Era}
+      \field{year}{2025}
+    \endentry
+    \entry{Papoutsi2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f3eed2ba0ea50c6c5c9edc61be1a4dc}{%
+           family={Papoutsi},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db00edc3367c17b2b184f1aef065868f}{%
+           family={Sodhi},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f64eb2d09fd969e9b2baceddae7f3764}
+      \strng{fullhash}{a88d9371054167799d6d138561d2d39c}
+      \strng{fullhashraw}{a88d9371054167799d6d138561d2d39c}
+      \strng{bibnamehash}{a88d9371054167799d6d138561d2d39c}
+      \strng{authorbibnamehash}{a88d9371054167799d6d138561d2d39c}
+      \strng{authornamehash}{f64eb2d09fd969e9b2baceddae7f3764}
+      \strng{authorfullhash}{a88d9371054167799d6d138561d2d39c}
+      \strng{authorfullhashraw}{a88d9371054167799d6d138561d2d39c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Does disclosure in sustainability reports indicate actual sustainability performance?}
+      \field{volume}{260}
+      \field{year}{2020}
+      \field{pages}{121049}
+      \range{pages}{1}
+    \endentry
+    \entry{Reitmaier2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=19524cec6aa8b400926dc42db3997c4c}{%
+           family={Reitmaier},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf56645e482b9b5c36e8a7a8bdc8235}{%
+           family={Schultze},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3935acca98e469c998c5d9a321ff72d9}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f2dd627828a27179841e96574cdd5f5b}
+      \strng{fullhash}{40c52b0da4b8244e8780e81232b4590e}
+      \strng{fullhashraw}{40c52b0da4b8244e8780e81232b4590e}
+      \strng{bibnamehash}{40c52b0da4b8244e8780e81232b4590e}
+      \strng{authorbibnamehash}{40c52b0da4b8244e8780e81232b4590e}
+      \strng{authornamehash}{f2dd627828a27179841e96574cdd5f5b}
+      \strng{authorfullhash}{40c52b0da4b8244e8780e81232b4590e}
+      \strng{authorfullhashraw}{40c52b0da4b8244e8780e81232b4590e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Accounting Studies}
+      \field{title}{Corporate responsibility and corporate misbehavior: are CSR reporting firms indeed responsible?}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 69}
+      \range{pages}{69}
+    \endentry
+    \entry{Shabana2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=702308b7bf699b3b59d858845f5b37d9}{%
+           family={Shabana},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f60d94fe0019b5243b4b4ff61e5d7401}{%
+           family={Buchholtz},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e77e929bc556247f6d61bc51b91a899}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{247c7db470e341ca579723096bf93859}
+      \strng{fullhash}{cf6902a075b1e5638207578d3d65467f}
+      \strng{fullhashraw}{cf6902a075b1e5638207578d3d65467f}
+      \strng{bibnamehash}{cf6902a075b1e5638207578d3d65467f}
+      \strng{authorbibnamehash}{cf6902a075b1e5638207578d3d65467f}
+      \strng{authornamehash}{247c7db470e341ca579723096bf93859}
+      \strng{authorfullhash}{cf6902a075b1e5638207578d3d65467f}
+      \strng{authorfullhashraw}{cf6902a075b1e5638207578d3d65467f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Business \& Society}
+      \field{number}{8}
+      \field{title}{The institutionalization of corporate social responsibility reporting}
+      \field{volume}{56}
+      \field{year}{2017}
+      \field{pages}{1107\bibrangedash 1135}
+      \range{pages}{29}
+    \endentry
+    \entry{Troshani2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4f9fe14f25beb0bd7a50827ccba47835}{%
+           family={Troshani},
+           familyi={T\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baed4bd53a2b9973b1d2ccc4decde93c}{%
+           family={Rowbottom},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52c77844e5d13a79c355a5c8aec4dc7b}
+      \strng{fullhash}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \strng{fullhashraw}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \strng{bibnamehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \strng{authorbibnamehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \strng{authornamehash}{52c77844e5d13a79c355a5c8aec4dc7b}
+      \strng{authorfullhash}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \strng{authorfullhashraw}{a67f43e0eb321e7832b0e3fc7f5087b0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accounting, Auditing \& Accountability Journal}
+      \field{number}{4}
+      \field{title}{Corporate sustainability reporting and information infrastructure}
+      \field{volume}{37}
+      \field{year}{2024}
+      \field{pages}{1209\bibrangedash 1237}
+      \range{pages}{29}
+    \endentry
+    \entry{Ye2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=290f4cc93aa5d4982e78e3ea4ed75c93}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3071d9b6e110b636a1b1729bcd24862}{%
+           family={Kueh},
+           familyi={K\bibinitperiod},
+           given={T.-B.},
+           giveni={T\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b49148177853ad89c516ef2a9ce6b3d1}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce084360cc68e7db4fe6cae1287b3adf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f46cff6a47143fdbd36ae8842919e073}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efc6f46856dcdeaf36e4ab7a7db2dd4e}
+      \strng{fullhash}{81a6d04a6aaf4284b17679f7c2d0db04}
+      \strng{fullhashraw}{81a6d04a6aaf4284b17679f7c2d0db04}
+      \strng{bibnamehash}{efc6f46856dcdeaf36e4ab7a7db2dd4e}
+      \strng{authorbibnamehash}{efc6f46856dcdeaf36e4ab7a7db2dd4e}
+      \strng{authornamehash}{efc6f46856dcdeaf36e4ab7a7db2dd4e}
+      \strng{authorfullhash}{81a6d04a6aaf4284b17679f7c2d0db04}
+      \strng{authorfullhashraw}{81a6d04a6aaf4284b17679f7c2d0db04}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{A bibliometric analysis of corporate social responsibility in sustainable development}
+      \field{volume}{272}
+      \field{year}{2020}
+      \field{pages}{122679}
+      \range{pages}{1}
+    \endentry
+    \entry{Zhang2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d21a4c5b1b7b1da5165b2f8f62e700c}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116c6708c3bcef167f2151bf1ddd8380}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3c1307f04a2326d8574987ac3a9ef4db}
+      \strng{fullhash}{839f53f8e977e29b11c3877be23cdc6d}
+      \strng{fullhashraw}{839f53f8e977e29b11c3877be23cdc6d}
+      \strng{bibnamehash}{3c1307f04a2326d8574987ac3a9ef4db}
+      \strng{authorbibnamehash}{3c1307f04a2326d8574987ac3a9ef4db}
+      \strng{authornamehash}{3c1307f04a2326d8574987ac3a9ef4db}
+      \strng{authorfullhash}{839f53f8e977e29b11c3877be23cdc6d}
+      \strng{authorfullhashraw}{839f53f8e977e29b11c3877be23cdc6d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Critical success factors of green innovation: Technology, organization and environment readiness}
+      \field{volume}{264}
+      \field{year}{2020}
+      \field{pages}{121701}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
