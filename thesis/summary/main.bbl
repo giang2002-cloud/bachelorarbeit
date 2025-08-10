@@ -115,6 +115,37 @@
       \field{pages}{125404}
       \range{pages}{1}
     \endentry
+    \entry{Barney1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56d648cc1a6148cb7d85676c69b67f8a}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{fullhash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{fullhashraw}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{bibnamehash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{authorbibnamehash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{authornamehash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{authorfullhash}{56d648cc1a6148cb7d85676c69b67f8a}
+      \strng{authorfullhashraw}{56d648cc1a6148cb7d85676c69b67f8a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Management}
+      \field{number}{1}
+      \field{title}{Firm resources and sustained competitive advantage}
+      \field{volume}{17}
+      \field{year}{1991}
+      \field{pages}{99\bibrangedash 120}
+      \range{pages}{22}
+    \endentry
     \entry{Belal2015}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4143eaac75e880bcb5ff4cb35db9a7ed}{%
@@ -130,12 +161,12 @@
            giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{624be73ddc0fb7c522ac14309ce3fbee}
+      \strng{namehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{fullhash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{fullhashraw}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{bibnamehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{authorbibnamehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
-      \strng{authornamehash}{624be73ddc0fb7c522ac14309ce3fbee}
+      \strng{authornamehash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{authorfullhash}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \strng{authorfullhashraw}{3875b9c84d50c5c4b6f4dccad76ea9e0}
       \field{sortinit}{B}
@@ -243,25 +274,25 @@
     \endentry
     \entry{Chouaibi2021}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8de84db70e78b3ce78f903cc0d05bedc}{%
+        {{un=1,uniquepart=given,hash=8de84db70e78b3ce78f903cc0d05bedc}{%
            family={Chouaibi},
            familyi={C\bibinitperiod},
            given={S.},
            giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6514364e984d12ee8d21df2e09f7a48d}{%
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=6514364e984d12ee8d21df2e09f7a48d}{%
            family={Chouaibi},
            familyi={C\bibinitperiod},
            given={J.},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
-      \strng{namehash}{d0cc3ed1e2a5fd3f089c9cd5afe20518}
+      \strng{namehash}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{fullhash}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{fullhashraw}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{bibnamehash}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{authorbibnamehash}{6f16e2c84fb78b4a6b1e2d893513239f}
-      \strng{authornamehash}{d0cc3ed1e2a5fd3f089c9cd5afe20518}
+      \strng{authornamehash}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{authorfullhash}{6f16e2c84fb78b4a6b1e2d893513239f}
       \strng{authorfullhashraw}{6f16e2c84fb78b4a6b1e2d893513239f}
       \field{sortinit}{C}
@@ -363,6 +394,74 @@
       \field{year}{2021}
       \field{pages}{598\bibrangedash 626}
       \range{pages}{29}
+    \endentry
+    \entry{Dechow2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44740568a36b737259a6b0979fc40ec7}{%
+           family={Dechow},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{fullhash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{fullhashraw}{44740568a36b737259a6b0979fc40ec7}
+      \strng{bibnamehash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{authorbibnamehash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{authornamehash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{authorfullhash}{44740568a36b737259a6b0979fc40ec7}
+      \strng{authorfullhashraw}{44740568a36b737259a6b0979fc40ec7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Accounting Review}
+      \field{number}{5}
+      \field{title}{Understanding the sustainability reporting landscape and research opportunities in accounting}
+      \field{volume}{98}
+      \field{year}{2023}
+      \field{pages}{481\bibrangedash 493}
+      \range{pages}{13}
+    \endentry
+    \entry{DiMaggio1983}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=60ab7751199ca5edefca1645d04c6fc8}{%
+           family={DiMaggio},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7904a81eff5db3bc1a68754c276be6a5}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{fullhash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{fullhashraw}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{bibnamehash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{authorbibnamehash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{authornamehash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{authorfullhash}{091fef09422e1ea65f0edbcc676b7626}
+      \strng{authorfullhashraw}{091fef09422e1ea65f0edbcc676b7626}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{2}
+      \field{title}{The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields}
+      \field{volume}{48}
+      \field{year}{1983}
+      \field{pages}{147\bibrangedash 160}
+      \range{pages}{14}
     \endentry
     \entry{Edge2022}{article}{}{}
       \name{author}{1}{}{%
@@ -492,6 +591,35 @@
       \field{pages}{1499\bibrangedash 1549}
       \range{pages}{51}
     \endentry
+    \entry{Freeman1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea40e86642406a20677b1b0e486d1ccc}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{fullhash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{fullhashraw}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{bibnamehash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{authorbibnamehash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{authornamehash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{authorfullhash}{ea40e86642406a20677b1b0e486d1ccc}
+      \strng{authorfullhashraw}{ea40e86642406a20677b1b0e486d1ccc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strategic management: A stakeholder approach}
+      \field{year}{1984}
+    \endentry
     \entry{Gai2023}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=de5b751569c188b686ffc9c406ef6202}{%
@@ -604,12 +732,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b55060489eb0eee800b48dce36bf426b}
+      \strng{namehash}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{fullhash}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{fullhashraw}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{bibnamehash}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{authorbibnamehash}{94ad67197d3653177f57e0b3fe4955d5}
-      \strng{authornamehash}{b55060489eb0eee800b48dce36bf426b}
+      \strng{authornamehash}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{authorfullhash}{94ad67197d3653177f57e0b3fe4955d5}
       \strng{authorfullhashraw}{94ad67197d3653177f57e0b3fe4955d5}
       \field{sortinit}{G}
@@ -640,12 +768,12 @@
            giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{7991969c5efef938e3cd3f048dc560df}
+      \strng{namehash}{93cedb5972f129199e7564440adaebfe}
       \strng{fullhash}{93cedb5972f129199e7564440adaebfe}
       \strng{fullhashraw}{93cedb5972f129199e7564440adaebfe}
       \strng{bibnamehash}{93cedb5972f129199e7564440adaebfe}
       \strng{authorbibnamehash}{93cedb5972f129199e7564440adaebfe}
-      \strng{authornamehash}{7991969c5efef938e3cd3f048dc560df}
+      \strng{authornamehash}{93cedb5972f129199e7564440adaebfe}
       \strng{authorfullhash}{93cedb5972f129199e7564440adaebfe}
       \strng{authorfullhashraw}{93cedb5972f129199e7564440adaebfe}
       \field{sortinit}{J}
@@ -788,12 +916,12 @@
            giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ebd226df23101233ad64354a368f56a3}
+      \strng{namehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{fullhash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{fullhashraw}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{bibnamehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{authorbibnamehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
-      \strng{authornamehash}{ebd226df23101233ad64354a368f56a3}
+      \strng{authornamehash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{authorfullhash}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \strng{authorfullhashraw}{3d8f7e86e7a1c1da902929e60e9dd5fb}
       \field{sortinit}{N}
@@ -919,12 +1047,12 @@
            giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f64eb2d09fd969e9b2baceddae7f3764}
+      \strng{namehash}{a88d9371054167799d6d138561d2d39c}
       \strng{fullhash}{a88d9371054167799d6d138561d2d39c}
       \strng{fullhashraw}{a88d9371054167799d6d138561d2d39c}
       \strng{bibnamehash}{a88d9371054167799d6d138561d2d39c}
       \strng{authorbibnamehash}{a88d9371054167799d6d138561d2d39c}
-      \strng{authornamehash}{f64eb2d09fd969e9b2baceddae7f3764}
+      \strng{authornamehash}{a88d9371054167799d6d138561d2d39c}
       \strng{authorfullhash}{a88d9371054167799d6d138561d2d39c}
       \strng{authorfullhashraw}{a88d9371054167799d6d138561d2d39c}
       \field{sortinit}{P}
@@ -1039,12 +1167,12 @@
            giveni={N\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{52c77844e5d13a79c355a5c8aec4dc7b}
+      \strng{namehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{fullhash}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{fullhashraw}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{bibnamehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{authorbibnamehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
-      \strng{authornamehash}{52c77844e5d13a79c355a5c8aec4dc7b}
+      \strng{authornamehash}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{authorfullhash}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \strng{authorfullhashraw}{a67f43e0eb321e7832b0e3fc7f5087b0}
       \field{sortinit}{T}
