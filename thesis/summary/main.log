@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  10 AUG 2025 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.25)  14 AUG 2025 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -610,7 +610,7 @@ Overfull \hbox (6.18382pt too wide) in paragraph at lines 3--3
  []
 
 
-Overfull \hbox (7.15782pt too wide) in paragraph at lines 36--39
+Overfull \hbox (7.15782pt too wide) in paragraph at lines 36--40
 \OT1/ptm/m/n/12 Social sus-tain-abil-ity re-port-ing in this re-search high-lights the S-Pillar in CSR Re-port-ing. Overview
  []
 
@@ -691,18 +691,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17396 strings out of 468940
- 305185 string characters out of 5457270
- 1144417 words of memory out of 5000000
- 45576 multiletter control sequences out of 15000+600000
+ 17408 strings out of 468940
+ 305523 string characters out of 5457270
+ 1144543 words of memory out of 5000000
+ 45586 multiletter control sequences out of 15000+600000
  643302 words of font info for 68 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  63i,11n,67p,742b,1523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 91911 bytes).
+Output written on main.pdf (20 pages, 94373 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 83 named destinations out of 1000 (max. 500000)
+ 326 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
  169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

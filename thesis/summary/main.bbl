@@ -753,6 +753,81 @@
       \field{pages}{101249}
       \range{pages}{1}
     \endentry
+    \entry{Greig2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4aa7292becb35d35c376e34ea9e6ae50}{%
+           family={Greig},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af395e6f41177a5100116e5e96a9fab9}{%
+           family={Searcy},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10ffc2d97613bafa92cb1c7acd0a7d8d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={W.\bibnamedelimi P.},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5127c166a588640810fd3f0014f63bfd}
+      \strng{fullhash}{161854b53391c5b6c753fd16bcb89d6f}
+      \strng{fullhashraw}{161854b53391c5b6c753fd16bcb89d6f}
+      \strng{bibnamehash}{161854b53391c5b6c753fd16bcb89d6f}
+      \strng{authorbibnamehash}{161854b53391c5b6c753fd16bcb89d6f}
+      \strng{authornamehash}{5127c166a588640810fd3f0014f63bfd}
+      \strng{authorfullhash}{161854b53391c5b6c753fd16bcb89d6f}
+      \strng{authorfullhashraw}{161854b53391c5b6c753fd16bcb89d6f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Work environment in the context of corporate social responsibility reporting: Developing common terms for consistent reporting in organizations}
+      \field{volume}{328}
+      \field{year}{2021}
+      \field{pages}{129513}
+      \range{pages}{1}
+    \endentry
+    \entry{Huang2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=01857aa236d9261867a4ccbd55bd157a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef50857e114f08907fb07cb579b5e7e}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{fullhash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{fullhashraw}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{bibnamehash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{authorbibnamehash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{authornamehash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{authorfullhash}{b21a170642caa48c1a6f9d25059a72c6}
+      \strng{authorfullhashraw}{b21a170642caa48c1a6f9d25059a72c6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 3708257}
+      \field{title}{ESG performance and voluntary ESG disclosure: Mind the (gender pay) gap}
+      \field{year}{2022}
+    \endentry
     \entry{Jona2023}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fcaeee4bca1cdd34fb42c246123adc56}{%
