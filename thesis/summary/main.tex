@@ -7,6 +7,14 @@
 \usepackage{times}
 \usepackage{graphicx}
 \usepackage{tocloft}
+
+% Vietnamese language support
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+\babelprovide[hyphenrules=nohyphenation]{vietnamese}
+
+
 \usepackage[backend=biber,style=authoryear,sorting=nyt]{biblatex}
 \addbibresource{bibliography.bib}
 
@@ -41,6 +49,9 @@
 % Line spacing
 \renewcommand{\baselinestretch}{1.5}
 
+% Vietnamese table of contents labels
+\renewcommand{\contentsname}{MỤC LỤC}
+
 \begin{document}
 
 \input{chapters/titlepage.tex}
@@ -65,7 +76,7 @@
 \input{chapters/chapter6.tex}
 
 % Bibliography
-\renewcommand{\bibname}{REFERENCES}
+\renewcommand{\bibname}{TÀI LIỆU THAM KHẢO}
 \printbibliography[heading=bibintoc]
 
 \end{document}
