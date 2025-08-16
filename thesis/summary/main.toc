@@ -50,11 +50,7 @@
 \contentsline {subsubsection}{3. Các tiêu chí phụ cao và thấp nhất}{11}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Các yếu tố thúc đẩy và thách thức thực nghiệm của mức độ sẵn sàng SSR}{12}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Các yếu tố thúc đẩy chính}{12}{subsection.4.3.1}%
-\contentsline {subsubsection}{Yếu tố thúc đẩy}{12}{table.4.1}%
-\contentsline {subsubsection}{Diễn giải lý thuyết}{12}{table.4.1}%
 \contentsline {subsection}{\numberline {4.3.2}Các thách thức chính}{13}{subsection.4.3.2}%
-\contentsline {subsubsection}{Thách thức}{13}{table.4.2}%
-\contentsline {subsubsection}{Diễn giải lý thuyết}{13}{table.4.2}%
 \contentsline {chapter}{\numberline {5}THẢO LUẬN VÀ HÀM Ý}{14}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Hàm ý đối với thực tiễn}{14}{section.5.1}%
 \contentsline {subsubsection}{Đối với doanh nghiệp}{14}{section.5.1}%
@@ -71,4 +67,5 @@
 \contentsline {subsubsection}{Hạn chế}{15}{chapter.6}%
 \contentsline {subsubsection}{Đạo đức nghiên cứu}{15}{chapter.6}%
 \contentsline {subsubsection}{Hướng nghiên cứu tương lai}{16}{chapter.6}%
-\contentsline {chapter}{TÀI LIỆU THAM KHẢO}{17}{chapter*.1}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Bibliography}{17}{chapter*.1}%

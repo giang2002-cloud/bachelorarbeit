@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  16 AUG 2025 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  16 AUG 2025 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
-(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
+**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
+(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -281,7 +281,7 @@ LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) o
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
 \U@D=\dimen159
-\l@unhyphenated=\language50
+\l@unhyphenated=\language11
  (c:/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count290
@@ -444,7 +444,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language51
+\blx@langwohyphens=\language12
 \c@mincomprange=\count336
 \c@maxcomprange=\count337
 \c@mincompwidth=\count338
@@ -710,7 +710,13 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count431
 \@quotereset=\count432
-No file main.aux.
+(./main.aux
+Package babel Info: 'vietnamese' activates 'vietnamese' shorthands.
+(babel)             Reported on input line 9.
+ (c:/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing data for english
+(babel)             from babel-en.ini. Reported on input line 215.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -729,7 +735,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 55.
-(c:/texlive/2025/texmf-dist/tex/latex/vntex/t5cmr.fd
+ (c:/texlive/2025/texmf-dist/tex/latex/vntex/t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 55.
@@ -791,8 +797,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package babel Info: 'vietnamese' activates 'vietnamese' shorthands.
-(babel)             Reported on input line 55.
 Package biblatex Info: Trying to load language 'vietnamese'...
 Package biblatex Info: ... file 'vietnamese.lbx' not found.
 
@@ -800,6 +804,11 @@ Package biblatex Info: ... file 'vietnamese.lbx' not found.
 Package biblatex Warning: Language 'vietnamese' not supported.
 (biblatex)                Using dummy definitions on input line 55.
 
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(c:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -807,7 +816,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 55.
 Package biblatex Info: Reference segment=0 on input line 55.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
@@ -818,6 +827,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 55.
+ (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -825,8 +835,18 @@ Package hyperref Info: Link coloring ON on input line 55.
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/vntex/t5.enc}])
-No file main.toc.
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/vntex/t5.enc}]) (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1.
+ (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -834,7 +854,9 @@ No file main.toc.
 
 [2
 
-] (./chapters/chapter1.tex
+]
+
+[3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./chapters/chapter1.tex
 Ch\uhorn \ohorn ng 1.
 
 
@@ -852,7 +874,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 41
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )) (./chapters/chapter2.tex
 
-[2{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+[2]
 Ch\uhorn \ohorn ng 2.
 
 Package biblatex Warning: Bibliography string 'and' untranslated
@@ -1321,116 +1343,6 @@ Ch\uhorn \ohorn ng 4.
 [11
 
 ]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.34 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.36 &
-       Lý thuyết thể chế: Áp lực cưỡng chế thúc đẩy thay ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.37 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.40 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.42 &
-       Lý thuyết các bên liên quan & RBV: SSR trở thành lợi thế...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.53 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.54 ...chuẩn hóa dữ liệu phi tài chính &
-                                                   RBV: Phản ánh sự thi...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.55 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 54--55
-[]\T5/ptm/m/n/12 RBV: Ph�n �nh s� thi�u h�t h�
- []
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.57 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.58 ...êu chuẩn xã hội đặc thù ngành &
-                                                   Lý thuyết thể chế:...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.59 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 2600) in paragraph at lines 58--59
-\T5/ptm/m/n/12 m�c c�n y�u; ch�a h�nh th�nh
- []
-
-
 
 [12]) (./chapters/chapter5.tex
 
@@ -1450,710 +1362,36 @@ Ch\uhorn \ohorn ng 6.
 
 [16]
 
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Afshari2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Afshari2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Afshari2022' on input line 80.
-
-
-Overfull \hbox (27.39073pt too wide) in paragraph at lines 80--80
-\T5/ptm/m/n/12 application in the energy sector''. []\T5/ptm/m/it/12 Sustainable Production and Consumption\T5/ptm/m/n/12 : 31, [] 263^^U286. 
- []
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Barletta2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Barletta2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Barletta2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Barney1991' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Barney1991' on input line 80.
-
-
-Overfull \hbox (20.30406pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Barney, J. (1991). ``Firm resources and sustained competitive advantage''. []\T5/ptm/m/it/12 Journal of Management\T5/ptm/m/n/12 :
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Belal2015' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Belal2015' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Belal2015' on input line 80.
-
-
-Overfull \hbox (18.83473pt too wide) in paragraph at lines 80--80
-\T5/ptm/m/n/12 multinational subsidiary in Bangladesh: A case study''. []\T5/ptm/m/it/12 Accounting, Auditing & Accountability
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Bochkay2025' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Bochkay2025' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Bochkay2025' on input line 80.
-
-
-Overfull \hbox (2.36342pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Bochkay, K., J. Hales [] G. Serafeim (2025). ``Disclosure standards and communication norms:
- []
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Bonnefon2025' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Bonnefon2025' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Bonnefon2025' on input line 80.
-
-
-Overfull \hbox (2.51941pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Bonnefon, J.-F. [] (2025). ``The moral preferences of investors: Experimental evidence''.
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Chouaibi2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Chouaibi2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Chouaibi2021' on input line 80.
-
-
-Overfull \hbox (3.44484pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Chouaibi, S. [] J. Chouaibi (2021). ``Social and ethical practices and firm value: the moderating
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Christensen2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Christensen2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Christensen2021' on input line 80.
-
-
-Overfull \hbox (30.69073pt too wide) in paragraph at lines 80--80
-\T5/ptm/m/n/12 Economic analysis and literature review''. []\T5/ptm/m/it/12 Review of Accounting Studies\T5/ptm/m/n/12 : 26.3, [] 1176^^U1248. 
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Dai2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Dai2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Dai2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Dechow2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Dechow2023' on input line 80.
-
-
-Overfull \hbox (34.8092pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Dechow, P. M. (2023). ``Understanding the sustainability reporting landscape and research opportunities
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'DiMaggio1983' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'DiMaggio1983' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'DiMaggio1983' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Edge2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Edge2022' on input line 80.
-
-
-
 [17
 
 ]
 
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'ElBaz2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'ElBaz2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'ElBaz2022' on input line 80.
-
-
-Overfull \hbox (3.0078pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 El Baz, J. [] (2022). ``A framework of sustainability drivers and externalities for Industry
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Fiechter2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Fiechter2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Fiechter2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Gai2023' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Gai2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Gai2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Tobias2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Tobias2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Tobias2022' on input line 80.
-
-
-Overfull \hbox (38.6827pt too wide) in paragraph at lines 80--80
-\T5/ptm/m/n/12 mandatory sustainability reporting quality''. []\T5/ptm/m/it/12 Journal of Business Economics\T5/ptm/m/n/12 : 92.3, [] 517^^U555. 
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Govindan2023' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Govindan2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Govindan2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Greig2021' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Greig2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Greig2021' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Huang2022' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Huang2022' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Jona2023' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Jona2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Jona2023' on input line 80.
-
-
-Overfull \hbox (3.7667pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Jona, J. [] N. S. Soderstrom (2023). ``Management accounting research opportunities in climate
- []
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Filho2025' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Filho2025' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Filho2025' on input line 80.
-
-
-Overfull \hbox (16.825pt too wide) in paragraph at lines 80--80
-\T5/ptm/m/n/12 of requirements and preparedness of EU companies''. []\T5/ptm/m/it/12 Journal of Environmental Management\T5/ptm/m/n/12 :
- []
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Montero2025' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Montero2025' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Najjar2023' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Najjar2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Najjar2023' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Nguyen2024' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Nguyen2024' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Nguyen2024' on input line 80.
-
-
-
 [18]
 
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Nicolo2025' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Nicolo2025' on input line 80.
-
-
-Overfull \hbox (3.43352pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Nicolo, G. [] (2025). ``Ready for Change After the Omnibus Package? Early Compliance
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Papoutsi2020' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Papoutsi2020' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Papoutsi2020' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Reitmaier2024' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Reitmaier2024' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Reitmaier2024' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Shabana2017' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Shabana2017' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Shabana2017' on input line 80.
-
-
-Overfull \hbox (1.89975pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Shabana, K. M., A. K. Buchholtz [] A. B. Carroll (2017). ``The institutionalization of corporate
- []
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Troshani2024' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Troshani2024' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'Troshani2024' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Ye2020' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Ye2020' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Ye2020' on input line 80.
-
-
-Overfull \hbox (7.99979pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Ye, N. [] (2020). ``A bibliometric analysis of corporate social responsibility in sustainable
- []
-
-
-Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'Zhang2020' on input line 80.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
-
-
-Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'Zhang2020' on input line 80.
-
-
-Package biblatex Warning: Bibliography string 'page' untranslated
-(biblatex)                at entry 'Zhang2020' on input line 80.
-
-
-Overfull \hbox (18.82951pt too wide) in paragraph at lines 80--80
-[][]\T5/ptm/m/n/12 Zhang, Y. [] (2020). ``Critical success factors of green innovation: Technology, organization
- []
-
-
-
-[19] (./main.aux
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9.
- (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-))
+[19] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  755CEFEA19AC2316AD5D6958A24187AC;7215.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F983A4BFDB7051B2FCA12D1769903CDD;7167.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18332 strings out of 468936
- 319284 string characters out of 5457105
- 1154240 words of memory out of 5000000
- 46489 multiletter control sequences out of 15000+600000
- 656323 words of font info for 63 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 63i,11n,67p,742b,1649s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on main.pdf (21 pages, 120514 bytes).
+ 19352 strings out of 469699
+ 337779 string characters out of 5479594
+ 1180321 words of memory out of 5000000
+ 47428 multiletter control sequences out of 15000+600000
+ 659538 words of font info for 69 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 63i,11n,67p,791b,1810s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (22 pages, 148884 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 346 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
