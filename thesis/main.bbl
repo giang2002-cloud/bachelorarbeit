@@ -18,33 +18,42 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global/global}
-    \entry{author2020study}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=1318a946c3fffa54cec1130748f21c17}{%
-           family={Author},
-           familyi={A\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Lock2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3b545c5d0d80250f2bde265f8b2dd445}{%
+           family={Lock},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edf3ebec066b5f8d84e0e11201aacd21}{%
+           family={Seele},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{fullhash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{fullhashraw}{1318a946c3fffa54cec1130748f21c17}
-      \strng{bibnamehash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{authorbibnamehash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{authornamehash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{authorfullhash}{1318a946c3fffa54cec1130748f21c17}
-      \strng{authorfullhashraw}{1318a946c3fffa54cec1130748f21c17}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \strng{namehash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{fullhash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{fullhashraw}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{bibnamehash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{authorbibnamehash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{authornamehash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{authorfullhash}{fea5e04401e10e6f3f6158b426910cc3}
+      \strng{authorfullhashraw}{fea5e04401e10e6f3f6158b426910cc3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal Name}
-      \field{title}{Title of the Study}
-      \field{volume}{1}
-      \field{year}{2020}
-      \field{pages}{1\bibrangedash 10}
-      \range{pages}{10}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{The credibility of CSR (corporate social responsibility) reports in Europe. Evidence from a quantitative content analysis in 11 countries}
+      \field{volume}{122}
+      \field{year}{2016}
+      \field{pages}{186\bibrangedash 200}
+      \range{pages}{15}
     \endentry
   \enddatalist
 \endrefsection

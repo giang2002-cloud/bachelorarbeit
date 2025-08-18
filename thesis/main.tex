@@ -1,4 +1,3 @@
-% Main thesis file
 \documentclass[12pt,a4paper]{report}
 
 % Packages for formatting
@@ -9,14 +8,28 @@
 \usepackage{graphicx}
 \usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black]{hyperref}
 \usepackage{tocloft}
-\usepackage[backend=biber]{biblatex}
-\addbibresource{bibliography.bib} 
+\usepackage[backend=biber,style=authoryear,sorting=nyt]{biblatex}
+\addbibresource{bibliography.bib}
+
+% Show both authors when there are 2, et al. for 3+
+\ExecuteBibliographyOptions{maxcitenames=2,mincitenames=1}
+
 \usepackage{fancyhdr}
 \usepackage{hyphenat}
 \usepackage{footmisc}
+\usepackage{titlesec}
+\usepackage{indentfirst}
 
-% Footnote formatting
+% Footnote and headers formatting
 \renewcommand{\footnotelayout}{\setstretch{1}\fontsize{10}{12}\selectfont}
+\titleformat{\chapter}[hang]{\normalfont\large\bfseries}{\thechapter.}{1em}{}
+\titleformat{\section}[hang]{\normalfont\large\bfseries}{\thesection.}{1em}{}
+\titleformat{\subsection}[hang]{\normalfont\normalsize\bfseries}{\thesubsection.}{1em}{}
+
+% Remove spacing below headings
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+\titlespacing*{\section}{0cm}{6pt}{0pt}
+\titlespacing*{\subsection}{0cm}{6pt}{0pt}
 
 \begin{document}
 
@@ -44,38 +57,29 @@
 \listoftables
 \clearpage
 
-% List of Abbreviations
-% \input{chapters/abbreviations.tex}
-
-% List of Appendices
-% \input{chapters/list_of_appendices.tex}
-
-% Switch to Arabic numbering for main text
 \cleardoublepage
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
-% Main text: Introduction, Main Body, Conclusion
 \input{chapters/introduction.tex}
 \clearpage
 
-\input{chapters/body.tex}
+\input{chapters/background.tex}
+\clearpage
+
+\input{chapters/methodology.tex}
+\clearpage
+
+\input{chapters/analysis.tex}
+\clearpage
+
+\input{chapters/discuss.tex}
 \clearpage
 
 \input{chapters/conclusion.tex}
 
 % References
-\printbibliography
-
-% Appendices
-% \input{chapters/appendixA.tex}
-% \input{chapters/appendixB.tex}
-
-% Statutory Declaration
-% \cleardoublepage
-% \input{chapters/statutory_declaration.tex}
-
-% Consent form for plagiarism check
-% \input{chapters/plagiarism_consent.tex}
+\renewcommand{\bibname}{REFERENCES}
+\printbibliography[heading=bibintoc]
 
 \end{document}
