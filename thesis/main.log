@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  18 AUG 2025 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  21 AUG 2025 06:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/main
-(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/main.tex
+**c:/Users/giang/Desktop/bachelorarbeit/thesis/main
+(c:/Users/giang/Desktop/bachelorarbeit/thesis/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -265,7 +265,7 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \bibhang=\skip93
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language11
+\blx@langwohyphens=\language50
 \c@mincomprange=\count345
 \c@maxcomprange=\count346
 \c@mincompwidth=\count347
@@ -446,7 +446,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks19
 ) (c:/texlive/2025/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language12
+\langwohyphens=\language51
 LaTeX Info: Redefining \_ on input line 43.
 ) (c:/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
@@ -594,11 +594,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
-
-Overfull \hbox (16.76932pt too wide) in paragraph at lines 5--5
- [][] [][][]\OT1/ptm/b/n/12 THEORETICAL BACK-GROUND, PRIOR LIT-ER-A-TURE, AND CON- 
- []
-
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -638,12 +633,22 @@ l.65 \clearpage
 
 ] (./chapters/background.tex
 Chapter 2.
-)
+
 
 [2
 
 
 ]
+Overfull \hbox (2.42981pt too wide) in paragraph at lines 55--61
+[]\OT1/ptm/m/n/12 Institutional The-ory is widely ap-plied in sus-tain-abil-ity re-port-ing re-search (Camp-
+ []
+
+
+Overfull \hbox (5.24174pt too wide) in paragraph at lines 55--61
+\OT1/ptm/m/n/12 eco-nomic en-vi-ron-ments through in-sti-tu-tion-al-ized prac-tices (Meyer and Rowan, 1977;
+ []
+
+)
 
 [3] (./chapters/methodology.tex
 Chapter 3.
@@ -687,25 +692,32 @@ Chapter 6.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E5CCB4A95DD663DA4E0763D77DBED9CF;1888.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: C4196314AE0A5387DE495BE7ED5315F0;2735
+(rerunfilecheck)             After:  92F36DC14C557BA93926B25146CC3242;2619.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17598 strings out of 469699
- 307629 string characters out of 5479594
- 1144369 words of memory out of 5000000
- 45761 multiletter control sequences out of 15000+600000
+ 17601 strings out of 468936
+ 307644 string characters out of 5457105
+ 1148289 words of memory out of 5000000
+ 45819 multiletter control sequences out of 15000+600000
  642988 words of font info for 67 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 75i,5n,79p,744b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 430 hyphenation exceptions out of 8191
+ 75i,5n,79p,734b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (13 pages, 52585 bytes).
+Output written on main.pdf (13 pages, 56034 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
