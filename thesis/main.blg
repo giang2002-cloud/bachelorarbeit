@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[111] biber-MSWIN64:342> INFO - === 
+[155] Biber.pm:421> INFO - Reading 'main.bcf'
+[255] Biber.pm:1002> INFO - Found 21 citekeys in bib section 0
+[267] Biber.pm:4487> INFO - Processing section 0
+[276] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[362] bibtex.pm:1713> INFO - LaTeX decoding ...
+[490] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[714] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[714] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[714] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[714] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[753] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[793] bbl.pm:779> INFO - Output to main.bbl
+[794] Biber.pm:132> WARN - Duplicate entry key: 'Nicolo2025' in file 'bibliography.bib', skipping ...
+[794] Biber.pm:134> INFO - WARNINGS: 1

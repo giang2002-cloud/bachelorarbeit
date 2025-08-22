@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  21 AUG 2025 06:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  22 AUG 2025 02:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,22 +639,24 @@ Chapter 2.
 
 
 ]
-Overfull \hbox (2.42981pt too wide) in paragraph at lines 55--61
-[]\OT1/ptm/m/n/12 Institutional The-ory is widely ap-plied in sus-tain-abil-ity re-port-ing re-search (Camp-
+
+[3]
+Overfull \hbox (2.42981pt too wide) in paragraph at lines 81--87
+[]\OT1/ptm/m/n/12 Institutional The-ory is widely ap-plied in sus-tain-abil-ity re-port-ing re-search ([]Camp-
  []
 
 
-Overfull \hbox (5.24174pt too wide) in paragraph at lines 55--61
-\OT1/ptm/m/n/12 eco-nomic en-vi-ron-ments through in-sti-tu-tion-al-ized prac-tices (Meyer and Rowan, 1977;
+Overfull \hbox (2.09775pt too wide) in paragraph at lines 81--87
+\OT1/ptm/m/n/12 eco-nomic en-vi-ron-ments through in-sti-tu-tion-al-ized prac-tices ([]Meyer and Rowan [][]1977[][];
  []
 
 )
 
-[3] (./chapters/methodology.tex
+[4] (./chapters/methodology.tex
 Chapter 3.
 )
 
-[4
+[5
 
 
 ] (./chapters/analysis.tex
@@ -666,58 +668,53 @@ Overfull \hbox (20.88121pt too wide) in paragraph at lines 2--2
 
 )
 
-[5
+[6
 
 
 ] (./chapters/discuss.tex
 Chapter 5.
 )
 
-[6
+[7
 
 
 ] (./chapters/conclusion.tex
 Chapter 6.
 )
 
-[7
+[8
 
 
 ]
 
-[8
+[9
 
-] (./main.aux)
+]
+
+[10] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: C4196314AE0A5387DE495BE7ED5315F0;2735
-(rerunfilecheck)             After:  92F36DC14C557BA93926B25146CC3242;2619.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 859F41334C8D343CFDFB46BFCEF0D17E;2642.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17601 strings out of 468936
- 307644 string characters out of 5457105
- 1148289 words of memory out of 5000000
- 45819 multiletter control sequences out of 15000+600000
+ 17742 strings out of 468936
+ 311359 string characters out of 5457105
+ 1150658 words of memory out of 5000000
+ 45938 multiletter control sequences out of 15000+600000
  642988 words of font info for 67 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 75i,5n,79p,734b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,734b,1466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (13 pages, 56034 bytes).
+Output written on main.pdf (15 pages, 70169 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
