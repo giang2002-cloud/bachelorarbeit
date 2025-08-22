@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  22 AUG 2025 02:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  22 AUG 2025 04:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,22 +641,24 @@ Chapter 2.
 ]
 
 [3]
-Overfull \hbox (2.42981pt too wide) in paragraph at lines 81--87
+Overfull \hbox (2.42981pt too wide) in paragraph at lines 110--116
 []\OT1/ptm/m/n/12 Institutional The-ory is widely ap-plied in sus-tain-abil-ity re-port-ing re-search ([]Camp-
  []
 
 
-Overfull \hbox (2.09775pt too wide) in paragraph at lines 81--87
+Overfull \hbox (2.09775pt too wide) in paragraph at lines 110--116
 \OT1/ptm/m/n/12 eco-nomic en-vi-ron-ments through in-sti-tu-tion-al-ized prac-tices ([]Meyer and Rowan [][]1977[][];
  []
 
-)
 
-[4] (./chapters/methodology.tex
+
+[4])
+
+[5] (./chapters/methodology.tex
 Chapter 3.
 )
 
-[5
+[6
 
 
 ] (./chapters/analysis.tex
@@ -668,53 +670,55 @@ Overfull \hbox (20.88121pt too wide) in paragraph at lines 2--2
 
 )
 
-[6
+[7
 
 
 ] (./chapters/discuss.tex
 Chapter 5.
 )
 
-[7
+[8
 
 
 ] (./chapters/conclusion.tex
 Chapter 6.
 )
 
-[8
-
-
-]
-
 [9
 
+
 ]
 
-[10] (./main.aux)
+[10
+
+]
+
+[11]
+
+[12] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 859F41334C8D343CFDFB46BFCEF0D17E;2642.
+(rerunfilecheck)             Checksum: D945775A522A0581BD18DE78A082A2F4;2729.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17742 strings out of 468936
- 311359 string characters out of 5457105
- 1150658 words of memory out of 5000000
- 45938 multiletter control sequences out of 15000+600000
+ 17797 strings out of 468936
+ 312900 string characters out of 5457105
+ 1151238 words of memory out of 5000000
+ 45982 multiletter control sequences out of 15000+600000
  642988 words of font info for 67 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 75i,5n,79p,734b,1466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,734b,1468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 70169 bytes).
+Output written on main.pdf (17 pages, 74734 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
