@@ -5,11 +5,14 @@
 \contentsline {chapter}{\numberline {2}Literature Review and Theoretical Framework}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Prior Literature on Social Sustainability Reporting}{2}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Prior Literature on SSR Readiness}{3}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Sectoral Characteristics and Reporting Practices in Software Services}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Theoretical frameworks}{5}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Institutional Theory}{5}{subsection.2.4.1}%
-\contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{6}{chapter.3}%
-\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{7}{chapter.4}%
-\contentsline {chapter}{\numberline {5}DISCUSSION AND IMPLICATIONS}{8}{chapter.5}%
-\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{9}{chapter.6}%
-\contentsline {chapter}{REFERENCES}{10}{chapter*.2}%
+\contentsline {section}{\numberline {2.3}Theoretical frameworks}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Institutional Theory}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Legitimacy Theory}{6}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Sectoral Characteristics and Reporting Practices in Software Services}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Prior Research on Drivers and Barriers of SSR Readiness}{9}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Drivers of SSR Readiness}{9}{subsection.2.5.1}%
+\contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{10}{chapter.3}%
+\contentsline {chapter}{\numberline {4}FINDINGS AND ANALYSIS FROM EMPIRICAL RESEARCH}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}DISCUSSION AND IMPLICATIONS}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}SUMMARY AND CONCLUSIONS}{13}{chapter.6}%
+\contentsline {chapter}{REFERENCES}{14}{chapter*.2}%

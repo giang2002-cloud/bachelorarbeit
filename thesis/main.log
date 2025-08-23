@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  22 AUG 2025 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  23 AUG 2025 01:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,6 +640,17 @@ LaTeX Warning: Citation 'UNGlobal2024' on page 2 undefined on input line 9.
 LaTeX Warning: Citation 'Krivogorsky2024' on page 2 undefined on input line 10.
 
 
+LaTeX Warning: Citation 'UNGlobal2024' on page 2 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'Krivogorsky2024' on page 2 undefined on input line 13.
+
+
+Overfull \hbox (27.74117pt too wide) in paragraph at lines 5--15
+\OT1/ptm/m/n/12 cial di-men-sion con-sis-tently emerges as a core as-pect ([]; [];
+ []
+
+
 LaTeX Warning: Citation 'Sharma2024' on page 2 undefined on input line 29.
 
 
@@ -650,24 +661,57 @@ LaTeX Warning: Citation 'Sharma2024' on page 2 undefined on input line 29.
 ]
 
 [3]
-
-[4]
-Overfull \hbox (2.42981pt too wide) in paragraph at lines 135--141
+Overfull \hbox (2.42981pt too wide) in paragraph at lines 90--96
 []\OT1/ptm/m/n/12 Institutional The-ory is widely ap-plied in sus-tain-abil-ity re-port-ing re-search ([]Camp-
  []
 
 
-Overfull \hbox (2.09775pt too wide) in paragraph at lines 135--141
+Overfull \hbox (2.09775pt too wide) in paragraph at lines 90--96
 \OT1/ptm/m/n/12 eco-nomic en-vi-ron-ments through in-sti-tu-tion-al-ized prac-tices ([]Meyer and Rowan [][]1977[][];
  []
 
+
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+LaTeX Warning: Citation 'Okafor2021' on page 8 undefined on input line 194.
+
+
+LaTeX Warning: Citation 'Okafor2021' on page 8 undefined on input line 196.
+
+
+Overfull \hbox (6.81317pt too wide) in paragraph at lines 193--197
+\OT1/ptm/m/n/12 ing the re-la-tion-ship be-tween CSR re-port-ing and fi-nan-cial per-for-mance ([]).
+ []
+
+
+LaTeX Warning: Citation 'Li2010' on page 8 undefined on input line 205.
+
+
+LaTeX Warning: Citation 'Bornar2025' on page 8 undefined on input line 213.
+
+
+
+[8]
+
+LaTeX Warning: Citation 'BaidJayaraman2022' on page 9 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'She2022' on page 9 undefined on input line 225.
+
 )
 
-[5] (./chapters/methodology.tex
+[9] (./chapters/methodology.tex
 Chapter 3.
 )
 
-[6
+[10
 
 
 ] (./chapters/analysis.tex
@@ -679,21 +723,21 @@ Overfull \hbox (20.88121pt too wide) in paragraph at lines 2--2
 
 )
 
-[7
+[11
 
 
 ] (./chapters/discuss.tex
 Chapter 5.
 )
 
-[8
+[12
 
 
 ] (./chapters/conclusion.tex
 Chapter 6.
 )
 
-[9
+[13
 
 
 ]
@@ -703,7 +747,7 @@ Overfull \hbox (1.16966pt too wide) in paragraph at lines 83--83
 
 
 
-[10
+[14
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 83.
@@ -716,11 +760,11 @@ Overfull \hbox (25.29327pt too wide) in paragraph at lines 83--83
 
 
 
-[11]
+[15]
 
-[12]
+[16]
 
-[13] (./main.aux)
+[17] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
@@ -730,7 +774,7 @@ L3 programming layer <2025-07-19>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A4DB515B859B25EA49D6302FC6FBE1B1;2906.
+(rerunfilecheck)             Checksum: 49FD26C2F9F2CC5AF923BE61FF894BC1;3601.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -741,18 +785,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17894 strings out of 468936
- 314916 string characters out of 5457105
- 1152845 words of memory out of 5000000
- 46064 multiletter control sequences out of 15000+600000
+ 17903 strings out of 468936
+ 315025 string characters out of 5457105
+ 1152950 words of memory out of 5000000
+ 46066 multiletter control sequences out of 15000+600000
  645227 words of font info for 71 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  75i,5n,79p,734b,1468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 92697 bytes).
+Output written on main.pdf (22 pages, 100506 bytes).
 PDF statistics:
- 295 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
