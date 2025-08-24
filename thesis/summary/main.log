@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  17 AUG 2025 20:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  24 AUG 2025 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main
-(c:/Users/anhvi/OneDrive/Desktop/Coding/giongion/thesis/summary/main.tex
+**c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main
+(c:/Users/giang/Desktop/bachelorarbeit/thesis/summary/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -186,7 +186,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip92
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language11
+\blx@langwohyphens=\language50
 \c@mincomprange=\count334
 \c@maxcomprange=\count335
 \c@mincompwidth=\count336
@@ -691,13 +691,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17408 strings out of 469699
- 305553 string characters out of 5479594
- 1142581 words of memory out of 5000000
- 45529 multiletter control sequences out of 15000+600000
+ 17408 strings out of 468936
+ 305523 string characters out of 5457105
+ 1144575 words of memory out of 5000000
+ 45587 multiletter control sequences out of 15000+600000
  643302 words of font info for 68 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 63i,11n,67p,752b,1523s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 430 hyphenation exceptions out of 8191
+ 63i,11n,67p,742b,1523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on main.pdf (20 pages, 94323 bytes).
 PDF statistics:
