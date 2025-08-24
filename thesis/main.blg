@@ -1,0 +1,33 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[467] biber-MSWIN64:342> INFO - === 
+[600] Biber.pm:421> INFO - Reading 'main.bcf'
+[706] Biber.pm:1002> INFO - Found 52 citekeys in bib section 0
+[716] Biber.pm:4487> INFO - Processing section 0
+[753] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[887] bibtex.pm:1713> INFO - LaTeX decoding ...
+[961] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1226] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1227] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1228] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1228] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1353] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1375] bbl.pm:779> INFO - Output to main.bbl
+[1375] Biber.pm:132> WARN - Duplicate entry key: 'Nicolo2025' in file 'bibliography.bib', skipping ...
+[1376] Biber.pm:132> WARN - Duplicate entry key: 'Mariappanadar2022' in file 'bibliography.bib', skipping ...
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Krivogorsky2024' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'UNGlobal2024' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Sharma2024' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Grey1995' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Patten1991' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Schoker1974' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Suchman1995' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Demuijnck2016' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Suchmann1995' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Deegan2002' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Okafor2021' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Li2010' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'Bornar2025' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'BaidJayaraman2022' (section 0)
+[1376] Biber.pm:132> WARN - I didn't find a database entry for 'She2022' (section 0)
+[1376] Biber.pm:134> INFO - WARNINGS: 17

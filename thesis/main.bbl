@@ -594,6 +594,36 @@
       \field{pages}{1499\bibrangedash 1549}
       \range{pages}{51}
     \endentry
+    \entry{UNGlobal2004}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39f0c3a70255a19fe2e9fb44d525acc4}{%
+           family={{Financial Industry}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{fullhash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{fullhashraw}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{bibnamehash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{authorbibnamehash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{authornamehash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{authorfullhash}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \strng{authorfullhashraw}{39f0c3a70255a19fe2e9fb44d525acc4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 24.08.2025, 2:10 p.m. Initiative by UN Secretary-General and UN Global Compact in collaboration with Swiss Government. Supported by 23 leading financial institutions.}
+      \field{title}{Who Cares Wins - Connecting Financial Markets to a Changing World}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://documents1.worldbank.org/curated/en/280911488968799581/pdf/113237-WP-WhoCaresWins-2004.pdf
+      \endverb
+      \verb{url}
+      \verb https://documents1.worldbank.org/curated/en/280911488968799581/pdf/113237-WP-WhoCaresWins-2004.pdf
+      \endverb
+    \endentry
     \entry{Fonseca2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=176edf0da5fea79818b49069ca6610e6}{%
@@ -898,49 +928,6 @@
       \field{journaltitle}{Available at SSRN 3708257}
       \field{title}{ESG performance and voluntary ESG disclosure: Mind the (gender pay) gap}
       \field{year}{2022}
-    \endentry
-    \entry{Kim2018}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=2c33da3f2daf892888efd5ba33424ca9}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={K.-H.},
-           giveni={K\bibinithyphendelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=247a1099fedf63892b02c166c10b8ca1}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c288d1e48edeee841173fd3568680109}{%
-           family={Qian},
-           familyi={Q\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{84d9d316eec8a06b82ae63d5dce335ed}
-      \strng{fullhash}{e7b9b987d418b1e017c874f0098cadd5}
-      \strng{fullhashraw}{e7b9b987d418b1e017c874f0098cadd5}
-      \strng{bibnamehash}{e7b9b987d418b1e017c874f0098cadd5}
-      \strng{authorbibnamehash}{e7b9b987d418b1e017c874f0098cadd5}
-      \strng{authornamehash}{84d9d316eec8a06b82ae63d5dce335ed}
-      \strng{authorfullhash}{e7b9b987d418b1e017c874f0098cadd5}
-      \strng{authorfullhashraw}{e7b9b987d418b1e017c874f0098cadd5}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Management}
-      \field{number}{3}
-      \field{title}{Effects of corporate social responsibility on corporate financial performance: A competitive-action perspective}
-      \field{volume}{44}
-      \field{year}{2018}
-      \field{pages}{1097\bibrangedash 1118}
-      \range{pages}{22}
     \endentry
     \entry{Filho2025}{article}{}{}
       \name{author}{7}{}{%
@@ -1634,6 +1621,21 @@
       \range{pages}{8}
     \endentry
   \enddatalist
+  \missing{BaidJayaraman2022}
+  \missing{Bornar2025}
+  \missing{Deegan2002}
+  \missing{Demuijnck2016}
+  \missing{Grey1995}
+  \missing{Krivogorsky2024}
+  \missing{Li2010}
+  \missing{Okafor2021}
+  \missing{Patten1991}
+  \missing{Schoker1974}
+  \missing{Sharma2024}
+  \missing{She2022}
+  \missing{Suchman1995}
+  \missing{Suchmann1995}
+  \missing{UNGlobal2024}
 \endrefsection
 \endinput
 
