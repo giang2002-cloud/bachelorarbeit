@@ -6,9 +6,9 @@
 \contentsline {section}{\numberline {2.1}Prior Literature on Social Sustainability Reporting}{2}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Prior Literature on SSR Readiness}{3}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Theoretical frameworks}{4}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Institutional Theory}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.1}Institutional Theory}{5}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Legitimacy Theory}{6}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Sectoral Characteristics and Reporting Practices in Software Services}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Sectoral Characteristics and Reporting Practices in Software Services}{7}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Prior Research on Drivers and Barriers of SSR Readiness}{9}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Drivers of SSR Readiness}{9}{subsection.2.5.1}%
 \contentsline {chapter}{\numberline {3}RESEARCH METHODOLOGY}{10}{chapter.3}%

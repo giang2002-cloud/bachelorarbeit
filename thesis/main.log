@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  25 AUG 2025 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.16)  25 AUG 2025 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,89 +765,95 @@ LaTeX Warning: Citation 'Sharma2024' on page 2 undefined on input line 19.
 
 [3]
 
-LaTeX Warning: Citation 'Nikolaeva2010' on page 4 undefined on input line 92.
-
-
-LaTeX Warning: Citation 'Nikolaeva2010' on page 4 undefined on input line 92.
-
-
-LaTeX Warning: Citation 'Shabana2017' on page 4 undefined on input line 93.
-
-
-LaTeX Warning: Citation 'Shabana2017' on page 4 undefined on input line 93.
-
-
-
 [4]
+
+LaTeX Warning: Citation 'Nikolaeva2010' on page 5 undefined on input line 119.
+
+
+LaTeX Warning: Citation 'Nikolaeva2010' on page 5 undefined on input line 119.
+
+
+LaTeX Warning: Citation 'Shabana2017' on page 5 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'Shabana2017' on page 5 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'Dimaggio1983' on page 5 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'Greenwood1996' on page 5 undefined on input line 125.
+
+
 
 [5]
 
-LaTeX Warning: Citation 'Grey1995' on page 6 undefined on input line 132.
+LaTeX Warning: Citation 'Grey1995' on page 6 undefined on input line 143.
 
 
-LaTeX Warning: Citation 'Patten1991' on page 6 undefined on input line 133.
+LaTeX Warning: Citation 'Patten1991' on page 6 undefined on input line 144.
 
 
-LaTeX Warning: Citation 'Schoker1974' on page 6 undefined on input line 133.
+LaTeX Warning: Citation 'Schoker1974' on page 6 undefined on input line 144.
 
 
-LaTeX Warning: Citation 'Schoker1974' on page 6 undefined on input line 135.
+LaTeX Warning: Citation 'Schoker1974' on page 6 undefined on input line 146.
 
 
-LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 136.
+LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 147.
 
 
-LaTeX Warning: Citation 'Demuijnck2016' on page 6 undefined on input line 137.
+LaTeX Warning: Citation 'Demuijnck2016' on page 6 undefined on input line 148.
 
 
-LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 139.
+LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 150.
 
 
-LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 140.
+LaTeX Warning: Citation 'Suchman1995' on page 6 undefined on input line 151.
 
 
-Overfull \hbox (4.34193pt too wide) in paragraph at lines 131--141
+Overfull \hbox (4.34193pt too wide) in paragraph at lines 142--152
 \OT1/ptm/m/n/12 the-ory orig-i-nates from the con-cept of the so-cial con-tract ([]). []
  []
 
 
-LaTeX Warning: Citation 'Suchmann1995' on page 6 undefined on input line 147.
-
-
-LaTeX Warning: Citation 'Deegan2002' on page 6 undefined on input line 149.
+LaTeX Warning: Citation 'Suchmann1995' on page 6 undefined on input line 158.
 
 
 
 [6]
 
-[7]
-
-LaTeX Warning: Citation 'Okafor2021' on page 8 undefined on input line 213.
+LaTeX Warning: Citation 'Deegan2002' on page 7 undefined on input line 160.
 
 
-LaTeX Warning: Citation 'Okafor2021' on page 8 undefined on input line 215.
+LaTeX Warning: Citation 'Okafor2021' on page 7 undefined on input line 184.
 
 
-Overfull \hbox (6.81317pt too wide) in paragraph at lines 212--216
+LaTeX Warning: Citation 'Okafor2021' on page 7 undefined on input line 186.
+
+
+Overfull \hbox (6.81317pt too wide) in paragraph at lines 183--187
 \OT1/ptm/m/n/12 ing the re-la-tion-ship be-tween CSR re-port-ing and fi-nan-cial per-for-mance ([]).
  []
 
 
 
-[8]
+[7]
 
-LaTeX Warning: Citation 'Li2010' on page 9 undefined on input line 224.
-
-
-LaTeX Warning: Citation 'Bornar2025' on page 9 undefined on input line 232.
+LaTeX Warning: Citation 'Li2010' on page 8 undefined on input line 195.
 
 
-LaTeX Warning: Citation 'BaidJayaraman2022' on page 9 undefined on input line 241.
+LaTeX Warning: Citation 'Bornar2025' on page 8 undefined on input line 203.
 
 
-LaTeX Warning: Citation 'She2022' on page 9 undefined on input line 244.
+LaTeX Warning: Citation 'BaidJayaraman2022' on page 8 undefined on input line 212.
+
+
+LaTeX Warning: Citation 'She2022' on page 8 undefined on input line 215.
 
 )
+
+[8]
 
 [9] (./chapters/methodology.tex
 Chapter 3.
@@ -932,18 +938,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17906 strings out of 468936
- 315077 string characters out of 5457105
- 1153216 words of memory out of 5000000
- 46069 multiletter control sequences out of 15000+600000
+ 17907 strings out of 468936
+ 315088 string characters out of 5457105
+ 1153258 words of memory out of 5000000
+ 46070 multiletter control sequences out of 15000+600000
  645227 words of font info for 71 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 75i,5n,79p,734b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,734b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 104709 bytes).
+Output written on main.pdf (22 pages, 103090 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 298 compressed objects within 3 object streams
+ 334 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
  78 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
